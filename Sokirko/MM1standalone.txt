@@ -1,0 +1,4241 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<text>
+<s>
+ 	<pun> II </pun>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> МАКСИМ
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana_del lemma="м`аксима" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,вн,ед," stress="4" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> МАКСИМЫЧ
+		<ana lemma="максимыч?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<w> Расставшись
+		<ana lemma="расст`аться" pos="ДЕЕПРИЧАСТИЕ" gram="нп,св,|дст,прш," stress="5" />
+	</w>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> Максимом
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,тв,ед," stress="255" />
+		<ana lemma="макс`им" pos="С" gram="но,|мр,тв,ед," stress="4" />
+	</w>
+ 	<w> Максимычем
+		<ana lemma="Максимович?" pos="С" gram="|разг,отч,мр,тв,ед," stress="255" />
+		<ana_del lemma="Максим?" pos="С" gram="|разг,отч,мр,тв,ед," stress="255" />
+		<ana_del lemma="максимыкать?" pos="Г" gram="|дст,1л,буд,мн," stress="255" />
+		<ana_del lemma="максимычем?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> живо
+		<ana lemma="ж`иво" pos="Н" gram="|" stress="1" />
+		<ana_del lemma="жив`ой" pos="П" gram="кач,|но,од,кр,ср,ед," stress="1" />
+	</w>
+ 	<w> проскакал
+		<ana lemma="проскак`ать" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="7" />
+	</w>
+ 	<w> Терекское
+		<ana lemma="терекское?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana_del lemma="терекский?" pos="П" gram="|но,од,ср,вн,ед," stress="255" />
+		<ana_del lemma="терекский?" pos="П" gram="|но,од,ср,им,ед," stress="255" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> Дарьяльское
+		<ana lemma="дарьяльское?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana_del lemma="дарьяльский?" pos="П" gram="|но,од,ср,вн,ед," stress="255" />
+		<ana_del lemma="дарьяльский?" pos="П" gram="|но,од,ср,им,ед," stress="255" />
+	</w>
+ 	<w> ущелья
+		<ana lemma="ущ`елие" pos="С" gram="но,|ср,вн,мн," stress="2" />
+		<ana lemma="ущ`елие" pos="С" gram="но,|ср,им,мн," stress="2" />
+		<ana lemma="ущ`елие" pos="С" gram="но,|ср,рд,ед," stress="2" />
+		<ana lemma="ущ`елье" pos="С" gram="но,|ср,вн,мн," stress="2" />
+		<ana lemma="ущ`елье" pos="С" gram="но,|ср,им,мн," stress="2" />
+		<ana lemma="ущ`елье" pos="С" gram="но,|ср,рд,ед," stress="2" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> завтракал
+		<ana lemma="з`автракать" pos="Г" gram="нп,нс,|дст,прш,мр,ед," stress="1" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> Казбеке
+		<ana lemma="Казбек" pos="С" gram="од,|имя,мр,пр,ед," stress="255" />
+		<ana lemma="казбек" pos="С" gram="дфст,лок,но,|мр,пр,ед," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> чай
+		<ana lemma="ч`ай" pos="С" gram="но,|мр,им,ед," stress="1" />
+		<ana_del lemma="ч`ай" pos="С" gram="но,|мр,вн,ед," stress="1" />
+		<ana_del lemma="ч`аять" pos="Г" gram="пе,нс,|дст,пвл,2л,ед," stress="1" />
+	</w>
+ 	<w> пил
+		<ana lemma="п`ить" pos="Г" gram="пе,нс,|дст,прш,мр,ед," stress="1" />
+		<ana_del lemma="пил`а" pos="С" gram="но,|жр,рд,мн," stress="1" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> Ларсе
+		<ana lemma="ларс?" pos="С" gram="|мр,пр,ед," stress="255" />
+		<ana_del lemma="ларсе?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> а
+		<ana lemma="`а" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="МЕЖД" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> к
+		<ana lemma="к" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> ужину
+		<ana lemma="`ужин" pos="С" gram="но,|мр,дт,ед," stress="2" />
+	</w>
+ 	<w> поспел
+		<ana lemma="посп`еть" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> Владикавказ
+		<ana lemma="владикавказ" pos="С" gram="дфст,лок,но,|мр,вн,ед," stress="255" />
+		<ana lemma="владикавказ" pos="С" gram="дфст,лок,но,|мр,им,ед," stress="255" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Избавлю
+		<ana lemma="изб`авить" pos="Г" gram="пе,св,|дст,1л,буд,ед," stress="3" />
+	</w>
+ 	<w> вас
+		<ana lemma="в`ы" pos="МС" gram="|2л,вн,мн," stress="1" />
+		<ana lemma="в`ы" pos="МС" gram="|2л,пр,мн," stress="1" />
+		<ana lemma="в`ы" pos="МС" gram="|2л,рд,мн," stress="1" />
+	</w>
+ 	<w> от
+		<ana lemma="`от" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> описания
+		<ana lemma="опис`ание" pos="С" gram="но,|ср,рд,ед," stress="4" />
+		<ana_del lemma="опис`ание" pos="С" gram="но,|ср,вн,мн," stress="4" />
+		<ana_del lemma="опис`ание" pos="С" gram="но,|ср,им,мн," stress="4" />
+	</w>
+ 	<w> гор
+		<ana lemma="гор`а" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="Гор" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> от
+		<ana lemma="`от" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> возгласов
+		<ana lemma="в`озглас" pos="С" gram="но,|мр,рд,мн," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> которые
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,им,мн," stress="3" />
+		<ana_del lemma="кот`орый" pos="МС-П" gram="|но,вн,мн," stress="3" />
+	</w>
+ 	<w> ничего
+		<ana lemma="ничег`о" pos="Н" gram="|" stress="5" />
+		<ana lemma="ничт`о" pos="МС" gram="|ср,рд,ед," stress="5" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> выражают
+		<ana lemma="выраж`ать" pos="Г" gram="пе,нс,|дст,3л,нст,мн," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> от
+		<ana lemma="`от" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> картин
+		<ana lemma="карт`ина" pos="С" gram="но,|жр,рд,мн," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> которые
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,им,мн," stress="3" />
+		<ana_del lemma="кот`орый" pos="МС-П" gram="|но,вн,мн," stress="3" />
+	</w>
+ 	<w> ничего
+		<ana lemma="ничег`о" pos="Н" gram="|" stress="5" />
+		<ana lemma="ничт`о" pos="МС" gram="|ср,рд,ед," stress="5" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> изображают
+		<ana lemma="изображ`ать" pos="Г" gram="пе,нс,|дст,3л,нст,мн," stress="7" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> особенно
+		<ana lemma="ос`обенно" pos="Н" gram="|" stress="2" />
+		<ana_del lemma="ос`обенный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="2" />
+	</w>
+ 	<w> для
+		<ana lemma="дл`я" pos="ПРЕДЛ" gram="|" stress="2" />
+		<ana_del lemma="дл`ить" pos="ДЕЕПРИЧАСТИЕ" gram="пе,нс,|дст,нст," stress="2" />
+	</w>
+ 	<w> тех
+		<ana lemma="т`от" pos="МС-П" gram="|но,од,рд,мн," stress="1" />
+		<ana_del lemma="т`от" pos="МС-П" gram="|но,од,пр,мн," stress="1" />
+		<ana_del lemma="т`от" pos="МС-П" gram="|од,вн,мн," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> которые
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,им,мн," stress="3" />
+		<ana_del lemma="кот`орый" pos="МС-П" gram="|но,вн,мн," stress="3" />
+	</w>
+ 	<w> там
+		<ana lemma="т`ам" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="там" pos="Н" gram="|указат," stress="255" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> были
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,мн," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,вн,мн," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,дт,ед," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,им,мн," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,пр,ед," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,рд,ед," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> от
+		<ana lemma="`от" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> статистических
+		<ana lemma="статист`ический" pos="П" gram="|но,од,рд,мн," stress="7" />
+		<ana_del lemma="статист`ический" pos="П" gram="|но,од,пр,мн," stress="7" />
+		<ana_del lemma="статист`ический" pos="П" gram="|од,вн,мн," stress="7" />
+	</w>
+ 	<w> замечаний
+		<ana lemma="замеч`ание" pos="С" gram="но,|ср,рд,мн," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> которые
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,вн,мн," stress="3" />
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,им,мн," stress="3" />
+	</w>
+ 	<w> решительно
+		<ana lemma="реш`ительно" pos="Н" gram="|" stress="3" />
+		<ana_del lemma="реш`ительный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="3" />
+	</w>
+ 	<w> никто
+		<ana lemma="никт`о" pos="МС" gram="|мр,им,ед," stress="4" />
+	</w>
+ 	<w> читать
+		<ana lemma="чит`ать" pos="ИНФИНИТИВ" gram="пе,нс,|дст," stress="3" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> станет
+		<ana lemma="ст`ать" pos="Г" gram="нп,св,|дст,3л,буд,ед," stress="2" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> остановился
+		<ana lemma="останов`иться" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="7" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> гостинице
+		<ana lemma="гост`иница" pos="С" gram="но,|жр,пр,ед," stress="4" />
+		<ana_del lemma="гост`иница" pos="С" gram="но,|жр,дт,ед," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> где
+		<ana lemma="гд`е" pos="Н" gram="|вопр," stress="2" />
+	</w>
+ 	<w> останавливаются
+		<ana lemma="остан`авливаться" pos="Г" gram="нп,нс,|дст,3л,нст,мн," stress="5" />
+	</w>
+ 	<w> все
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,им,мн," stress="2" />
+		<ana_del lemma="в`есь" pos="МС-П" gram="|но,вн,мн," stress="2" />
+		<ana_del lemma="в`есь" pos="МС-П" gram="|но,од,ср,вн,ед," stress="2" />
+		<ana_del lemma="в`есь" pos="МС-П" gram="|но,од,ср,им,ед," stress="2" />
+		<ana_del lemma="все" pos="МС" gram="|вн,мн," stress="255" />
+		<ana_del lemma="все" pos="МС" gram="|им,мн," stress="255" />
+		<ana_del lemma="все" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana_del lemma="все" pos="МС" gram="|ср,им,ед," stress="255" />
+		<ana_del lemma="все" pos="Н" gram="|" stress="255" />
+	</w>
+ 	<w> проезжие
+		<ana lemma="про`езжий" pos="С" gram="од,|мр,им,мн," stress="3" />
+		<ana_del lemma="про`езжий" pos="П" gram="|но,вн,мн," stress="3" />
+		<ana_del lemma="про`езжий" pos="П" gram="|но,од,им,мн," stress="3" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> где
+		<ana lemma="гд`е" pos="Н" gram="|вопр," stress="2" />
+	</w>
+ 	<ob> между тем
+		<ana lemma="между_тем" pos="Н" gram="" stress="255"/>
+		<singles>
+		 	<w> между
+				<ana lemma="м`ежду" pos="ПРЕДЛ" gram="|" stress="1" />
+			</w>
+		 	<w> тем
+				<ana lemma="т`от" pos="МС-П" gram="|но,од,мр,тв,ед," stress="1" />
+				<ana lemma="т`от" pos="МС-П" gram="|но,од,ср,тв,ед," stress="1" />
+				<ana_del lemma="т`ем" pos="СОЮЗ" gram="|" stress="1" />
+				<ana_del lemma="т`ема" pos="С" gram="но,|жр,рд,мн," stress="1" />
+				<ana_del lemma="т`от" pos="МС-П" gram="|но,од,дт,мн," stress="1" />
+				<ana_del lemma="тьм`а" pos="С" gram="но,|жр,рд,мн," stress="1" />
+			</w>
+		</singles>
+	</ob>
+ 	<w> некому
+		<ana lemma="некого" pos="МС-ПРЕДК" gram="|дт,ед," stress="255" />
+	</w>
+ 	<w> велеть
+		<ana lemma="вел`еть" pos="ИНФИНИТИВ" gram="нп,нс,св,|дст," stress="3" />
+	</w>
+ 	<w> зажарить
+		<ana lemma="заж`арить" pos="ИНФИНИТИВ" gram="пе,св,|дст," stress="3" />
+	</w>
+ 	<w> фазана
+		<ana lemma="фаз`ан" pos="С" gram="од,|мр,вн,ед," stress="3" />
+		<ana lemma="фаз`ан" pos="С" gram="од,|мр,рд,ед," stress="3" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> сварить
+		<ana lemma="свар`ить" pos="ИНФИНИТИВ" gram="пе,св,|дст," stress="4" />
+	</w>
+ 	<w> щей
+		<ana lemma="щ`и" pos="С" gram="но,|рд,мн," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> ибо
+		<ana lemma="`ибо" pos="СОЮЗ" gram="|" stress="0" />
+	</w>
+ 	<w> три
+		<ana lemma="тр`и" pos="ЧИСЛ" gram="|вн," stress="2" />
+		<ana lemma="тр`и" pos="ЧИСЛ" gram="|им," stress="2" />
+		<ana_del lemma="тер`еть" pos="Г" gram="пе,нс,|дст,пвл,2л,ед," stress="2" />
+	</w>
+ 	<w> инвалида
+		<ana lemma="инвал`ид" pos="С" gram="од,|мр,рд,ед," stress="5" />
+		<ana_del lemma="инвал`ид" pos="С" gram="од,|мр,вн,ед," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> которым
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,дт,мн," stress="3" />
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,мр,тв,ед," stress="3" />
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,ср,тв,ед," stress="3" />
+	</w>
+ 	<w> она
+		<ana lemma="он`а" pos="МС" gram="|3л,жр,им,ед," stress="2" />
+	</w>
+ 	<w> поручена
+		<ana lemma="поруч`ить" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,кр,жр,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> так
+		<ana lemma="т`ак" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="т`ак" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="так" pos="Н" gram="|указат," stress="255" />
+	</w>
+ 	<w> глупы
+		<ana lemma="гл`упый" pos="П" gram="кач,|но,од,кр,мн," stress="4" />
+	</w>
+ 	<w> или
+		<ana lemma="`или" pos="СОЮЗ" gram="|" stress="0" />
+		<ana lemma="`или" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> так
+		<ana lemma="т`ак" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="т`ак" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="так" pos="Н" gram="|указат," stress="255" />
+	</w>
+ 	<w> пьяны
+		<ana lemma="пь`яный" pos="П" gram="кач,|но,од,кр,мн," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> от
+		<ana lemma="`от" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> них
+		<ana lemma="он`и" pos="МС" gram="|3л,рд,мн," stress="1" />
+		<ana_del lemma="он`и" pos="МС" gram="|3л,вн,мн," stress="1" />
+		<ana_del lemma="он`и" pos="МС" gram="|3л,пр,мн," stress="1" />
+	</w>
+ 	<w> никакого
+		<ana lemma="никак`ой" pos="МС-П" gram="|но,од,мр,рд,ед," stress="5" />
+		<ana_del lemma="никак`ой" pos="МС-П" gram="|но,од,ср,рд,ед," stress="5" />
+		<ana_del lemma="никак`ой" pos="МС-П" gram="|од,мр,вн,ед," stress="5" />
+	</w>
+ 	<w> толка
+		<ana lemma="т`олк" pos="С" gram="но,|мр,рд,ед," stress="1" />
+	</w>
+ 	<w> нельзя
+		<ana lemma="нельз`я" pos="ПРЕДК" gram="|нст," stress="5" />
+	</w>
+ 	<w> добиться
+		<ana lemma="доб`иться" pos="ИНФИНИТИВ" gram="нп,св,|дст," stress="3" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Мне
+		<ana lemma="я" pos="МС" gram="|1л,дт,ед," stress="255" />
+		<ana lemma="я" pos="МС" gram="|1л,пр,ед," stress="255" />
+	</w>
+ 	<w> объявили
+		<ana lemma="объяв`ить" pos="Г" gram="пе,св,|дст,прш,мн," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> должен
+		<ana lemma="д`олжен" pos="П" gram="кач,|но,од,кр,мр,ед," stress="1" />
+		<ana_del lemma="д`олжный" pos="П" gram="|но,од,кр,мр,ед," stress="1" />
+	</w>
+ 	<w> прожить
+		<ana lemma="прож`ить" pos="ИНФИНИТИВ" gram="пе,св,|дст," stress="4" />
+	</w>
+ 	<w> тут
+		<ana lemma="тут" pos="Н" gram="|указат," stress="255" />
+		<ana_del lemma="т`ут" pos="С" gram="но,|мр,вн,ед," stress="1" />
+		<ana_del lemma="т`ут" pos="С" gram="но,|мр,им,ед," stress="1" />
+		<ana_del lemma="т`ута" pos="С" gram="но,|жр,рд,мн," stress="1" />
+	</w>
+ 	<w> еще
+		<ana lemma="ещ`е" pos="Н" gram="|" stress="2" />
+		<ana lemma="ещ`е" pos="ЧАСТ" gram="|" stress="2" />
+	</w>
+ 	<w> три
+		<ana lemma="тр`и" pos="ЧИСЛ" gram="|вн," stress="2" />
+		<ana lemma="тр`и" pos="ЧИСЛ" gram="|им," stress="2" />
+		<ana_del lemma="тер`еть" pos="Г" gram="пе,нс,|дст,пвл,2л,ед," stress="2" />
+	</w>
+ 	<w> дня
+		<ana lemma="д`ень" pos="С" gram="но,|мр,рд,ед," stress="2" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> ибо
+		<ana lemma="`ибо" pos="СОЮЗ" gram="|" stress="0" />
+	</w>
+ 	<pun> " </pun>
+ 	<w> оказия
+		<ana lemma="ок`азия" pos="С" gram="но,|жр,им,ед," stress="2" />
+	</w>
+ 	<pun> " </pun>
+ 	<w> из
+		<ana lemma="`из" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> Екатеринограда
+		<ana lemma="екатеринограда?" pos="С" gram="|жр,им,ед," stress="255" />
+	</w>
+ 	<w> еще
+		<ana lemma="ещ`е" pos="Н" gram="|" stress="2" />
+		<ana lemma="ещ`е" pos="ЧАСТ" gram="|" stress="2" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> пришла
+		<ana lemma="прийт`и" pos="Г" gram="нп,св,|дст,прш,жр,ед," stress="5" />
+		<ana_del lemma="пр`ишлый" pos="П" gram="|но,од,кр,жр,ед," stress="2" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> следовательно
+		<ana lemma="сл`едовательно" pos="ВВОДН" gram="|" stress="2" />
+		<ana lemma="сл`едовательно" pos="СОЮЗ" gram="|" stress="2" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> отправляться
+		<ana lemma="отправл`яться" pos="ИНФИНИТИВ" gram="нп,нс,|дст," stress="7" />
+	</w>
+ 	<w> обратно
+		<ana lemma="обр`атно" pos="Н" gram="|" stress="3" />
+		<ana_del lemma="обр`атный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="3" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> может
+		<ana lemma="м`очь" pos="Г" gram="нп,нс,|дст,3л,нст,ед," stress="1" />
+		<ana_del lemma="может" pos="ВВОДН" gram="|" stress="255" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> за
+		<ana lemma="з`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> оказия
+		<ana lemma="ок`азия" pos="С" gram="но,|жр,им,ед," stress="2" />
+	</w>
+ 	<pun> ! </pun>
+ 	<pun> .. </pun>
+ 	<w> но
+		<ana lemma="н`о" pos="СОЮЗ" gram="|" stress="1" />
+		<ana_del lemma="н`о" pos="МЕЖД" gram="|" stress="1" />
+	</w>
+ 	<w> дурной
+		<ana lemma="дурн`ой" pos="П" gram="кач,|но,мр,вн,ед," stress="4" />
+		<ana lemma="дурн`ой" pos="П" gram="кач,|но,од,мр,им,ед," stress="4" />
+		<ana_del lemma="дурн`ой" pos="П" gram="кач,|но,од,жр,дт,ед," stress="4" />
+		<ana_del lemma="дурн`ой" pos="П" gram="кач,|но,од,жр,пр,ед," stress="4" />
+		<ana_del lemma="дурн`ой" pos="П" gram="кач,|но,од,жр,рд,ед," stress="4" />
+		<ana_del lemma="дурн`ой" pos="П" gram="кач,|но,од,жр,тв,ед," stress="4" />
+	</w>
+ 	<w> каламбур
+		<ana lemma="каламб`ур" pos="С" gram="но,|мр,вн,ед," stress="6" />
+		<ana lemma="каламб`ур" pos="С" gram="но,|мр,им,ед," stress="6" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> утешение
+		<ana lemma="утеш`ение" pos="С" gram="но,|ср,вн,ед," stress="4" />
+		<ana lemma="утеш`ение" pos="С" gram="но,|ср,им,ед," stress="4" />
+	</w>
+ 	<w> для
+		<ana lemma="дл`я" pos="ПРЕДЛ" gram="|" stress="2" />
+		<ana_del lemma="дл`ить" pos="ДЕЕПРИЧАСТИЕ" gram="пе,нс,|дст,нст," stress="2" />
+	</w>
+ 	<w> русского
+		<ana lemma="р`усский" pos="П" gram="|но,од,мр,рд,ед," stress="1" />
+		<ana lemma="р`усский" pos="С" gram="од,|мр,рд,ед," stress="1" />
+		<ana_del lemma="р`усский" pos="П" gram="|но,од,ср,рд,ед," stress="1" />
+		<ana_del lemma="р`усский" pos="П" gram="|од,мр,вн,ед," stress="1" />
+		<ana_del lemma="р`усский" pos="С" gram="од,|мр,вн,ед," stress="1" />
+	</w>
+ 	<w> человека
+		<ana lemma="челов`ек" pos="С" gram="од,|мр,вн,ед," stress="5" />
+		<ana lemma="челов`ек" pos="С" gram="од,|мр,рд,ед," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> для
+		<ana lemma="дл`я" pos="ПРЕДЛ" gram="|" stress="2" />
+		<ana_del lemma="дл`ить" pos="ДЕЕПРИЧАСТИЕ" gram="пе,нс,|дст,нст," stress="2" />
+	</w>
+ 	<w> развлечения
+		<ana lemma="развлеч`ение" pos="С" gram="но,|ср,рд,ед," stress="7" />
+		<ana_del lemma="развлеч`ение" pos="С" gram="но,|ср,вн,мн," stress="7" />
+		<ana_del lemma="развлеч`ение" pos="С" gram="но,|ср,им,мн," stress="7" />
+	</w>
+ 	<w> вздумал
+		<ana lemma="взд`умать" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="3" />
+	</w>
+ 	<w> записывать
+		<ana lemma="зап`исывать" pos="ИНФИНИТИВ" gram="пе,нс,|дст," stress="3" />
+	</w>
+ 	<w> рассказ
+		<ana lemma="расск`аз" pos="С" gram="но,|мр,вн,ед," stress="5" />
+		<ana lemma="расск`аз" pos="С" gram="но,|мр,им,ед," stress="5" />
+	</w>
+ 	<w> Максима
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,вн,ед," stress="255" />
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,рд,ед," stress="255" />
+		<ana lemma="м`аксима" pos="С" gram="но,|жр,им,ед," stress="1" />
+		<ana lemma="макс`им" pos="С" gram="но,|мр,рд,ед," stress="4" />
+	</w>
+ 	<w> Максимыча
+		<ana lemma="максимыч?" pos="С" gram="|мр,рд,ед," stress="255" />
+		<ana_del lemma="максимыкать?" pos="ДЕЕПРИЧАСТИЕ" gram="|дст,нст," stress="255" />
+		<ana_del lemma="максимыча?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<w> о
+		<ana lemma="о" pos="ПРЕДЛ" gram="|" stress="255" />
+		<ana_del lemma="о" pos="МЕЖД" gram="|" stress="255" />
+	</w>
+ 	<w> Бэле
+		<ana lemma="Бэла" pos="С" gram="дфст,од,|имя,жр,пр,ед," stress="255" />
+		<ana_del lemma="Бэла" pos="С" gram="дфст,од,|имя,жр,дт,ед," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> воображая
+		<ana lemma="воображ`ать" pos="ДЕЕПРИЧАСТИЕ" gram="пе,нс,|дст,нст," stress="7" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> будет
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,3л,буд,ед," stress="1" />
+	</w>
+ 	<w> первым
+		<ana lemma="п`ервый" pos="ЧИСЛ-П" gram="|но,од,ср,тв,ед," stress="1" />
+		<ana_del lemma="п`ервое" pos="С" gram="дфст,но,|ср,дт,мн," stress="1" />
+		<ana_del lemma="п`ервое" pos="С" gram="дфст,но,|ср,тв,ед," stress="1" />
+		<ana_del lemma="п`ервый" pos="ЧИСЛ-П" gram="|но,од,дт,мн," stress="1" />
+		<ana_del lemma="п`ервый" pos="ЧИСЛ-П" gram="|но,од,мр,тв,ед," stress="1" />
+	</w>
+ 	<w> звеном
+		<ana lemma="звен`о" pos="С" gram="но,|ср,тв,ед," stress="4" />
+	</w>
+ 	<w> длинной
+		<ana lemma="дл`инный" pos="П" gram="кач,|но,од,жр,дт,ед," stress="2" />
+		<ana lemma="дл`инный" pos="П" gram="кач,|но,од,жр,пр,ед," stress="2" />
+		<ana lemma="дл`инный" pos="П" gram="кач,|но,од,жр,рд,ед," stress="2" />
+		<ana_del lemma="дл`инный" pos="П" gram="кач,|но,од,жр,тв,ед," stress="2" />
+	</w>
+ 	<w> цепи
+		<ana lemma="ц`епь" pos="С" gram="но,|2,жр,пр,ед," stress="3" />
+		<ana lemma="ц`епь" pos="С" gram="но,|жр,дт,ед," stress="1" />
+		<ana lemma="ц`епь" pos="С" gram="но,|жр,пр,ед," stress="1" />
+		<ana lemma="ц`епь" pos="С" gram="но,|жр,рд,ед," stress="1" />
+		<ana_del lemma="ц`епь" pos="С" gram="но,|жр,вн,мн," stress="1" />
+		<ana_del lemma="ц`епь" pos="С" gram="но,|жр,им,мн," stress="1" />
+	</w>
+ 	<w> повестей
+		<ana lemma="п`овесть" pos="С" gram="но,|жр,рд,мн," stress="6" />
+	</w>
+ 	<pun> ; </pun>
+ 	<w> видите
+		<ana lemma="в`идеть" pos="Г" gram="пе,нс,|дст,2л,нст,мн," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> как
+		<ana lemma="к`ак" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="к`ак" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="как" pos="Н" gram="|вопр," stress="255" />
+	</w>
+ 	<w> иногда
+		<ana lemma="иногд`а" pos="Н" gram="|" stress="5" />
+	</w>
+ 	<w> маловажный
+		<ana lemma="малов`ажный" pos="П" gram="кач,|но,од,мр,им,ед," stress="5" />
+		<ana_del lemma="малов`ажный" pos="П" gram="кач,|но,мр,вн,ед," stress="5" />
+	</w>
+ 	<w> случай
+		<ana lemma="сл`учай" pos="С" gram="но,|мр,им,ед," stress="2" />
+		<ana_del lemma="сл`учай" pos="С" gram="но,|мр,вн,ед," stress="2" />
+		<ana_del lemma="случ`ать" pos="Г" gram="пе,нс,|дст,пвл,2л,ед," stress="4" />
+	</w>
+ 	<w> имеет
+		<ana lemma="им`еть" pos="Г" gram="пе,нс,|дст,3л,нст,ед," stress="2" />
+	</w>
+ 	<w> жестокие
+		<ana lemma="жест`окий" pos="П" gram="кач,|но,вн,мн," stress="4" />
+		<ana lemma="жест`окий" pos="П" gram="кач,|но,од,им,мн," stress="4" />
+	</w>
+ 	<w> последствия
+		<ana lemma="посл`едствие" pos="С" gram="но,|ср,вн,мн," stress="4" />
+		<ana lemma="посл`едствие" pos="С" gram="но,|ср,им,мн," stress="4" />
+		<ana_del lemma="посл`едствие" pos="С" gram="но,|ср,рд,ед," stress="4" />
+	</w>
+ 	<pun> ! </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> А
+		<ana lemma="`а" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="МЕЖД" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> вы
+		<ana lemma="в`ы" pos="МС" gram="|2л,им,мн," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<ob> может быть
+		<ana lemma="может_быть" pos="ВВОДН" gram="" stress="255"/>
+		<singles>
+		 	<w> может
+				<ana lemma="м`очь" pos="Г" gram="нп,нс,|дст,3л,нст,ед," stress="1" />
+				<ana_del lemma="может" pos="ВВОДН" gram="|" stress="255" />
+			</w>
+		 	<w> быть
+				<ana lemma="б`ыть" pos="ИНФИНИТИВ" gram="нп,нс,|дст," stress="1" />
+			</w>
+		</singles>
+	</ob>
+ 	<pun> , </pun>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> знаете
+		<ana lemma="зн`ать" pos="Г" gram="пе,нс,|дст,2л,нст,мн," stress="2" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> такое
+		<ana lemma="так`ой" pos="МС-П" gram="|но,од,ср,вн,ед," stress="3" />
+		<ana lemma="так`ой" pos="МС-П" gram="|но,од,ср,им,ед," stress="3" />
+	</w>
+ 	<pun> " </pun>
+ 	<w> оказия
+		<ana lemma="ок`азия" pos="С" gram="но,|жр,им,ед," stress="2" />
+	</w>
+ 	<pun> " </pun>
+ 	<pun> ? </pun>
+</s>
+<s>
+ 	<w> Это
+		<ana lemma="`этот" pos="МС-П" gram="|но,од,ср,вн,ед," stress="0" />
+		<ana lemma="`этот" pos="МС-П" gram="|но,од,ср,им,ед," stress="0" />
+		<ana lemma="это" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="это" pos="МС" gram="|ср,им,ед," stress="255" />
+		<ana_del lemma="`это" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> прикрытие
+		<ana lemma="прикр`ытие" pos="С" gram="но,|ср,вн,ед," stress="5" />
+		<ana lemma="прикр`ытие" pos="С" gram="но,|ср,им,ед," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> состоящее
+		<ana lemma="состо`ять" pos="ПРИЧАСТИЕ" gram="нп,нс,|дст,но,од,нст,ср,вн,ед," stress="5" />
+		<ana lemma="состо`ять" pos="ПРИЧАСТИЕ" gram="нп,нс,|дст,но,од,нст,ср,им,ед," stress="5" />
+	</w>
+ 	<w> из
+		<ana lemma="`из" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> полроты
+		<ana lemma="полр`ота?" pos="С" gram="но,|жр,рд,мн," stress="255" />
+		<ana_del lemma="полполрот??" pos="С" gram="|мр,вн,мн," stress="255" />
+		<ana_del lemma="полполрот??" pos="С" gram="|мр,им,мн," stress="255" />
+		<ana_del lemma="полполротый??" pos="П" gram="|но,од,кр,мн," stress="255" />
+		<ana_del lemma="полполроть??" pos="ПРИЧАСТИЕ" gram="|стр,но,од,прш,кр,мн," stress="255" />
+	</w>
+ 	<w> пехоты
+		<ana lemma="пех`ота" pos="С" gram="но,|жр,вн,мн," stress="3" />
+		<ana lemma="пех`ота" pos="С" gram="но,|жр,им,мн," stress="3" />
+		<ana lemma="пех`ота" pos="С" gram="но,|жр,рд,ед," stress="3" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> пушки
+		<ana lemma="п`ушка" pos="С" gram="но,|жр,рд,ед," stress="1" />
+		<ana_del lemma="п`ушка" pos="С" gram="но,|жр,вн,мн," stress="1" />
+		<ana_del lemma="п`ушка" pos="С" gram="но,|жр,им,мн," stress="1" />
+		<ana_del lemma="пуш`ок" pos="С" gram="но,|мр,вн,мн," stress="4" />
+		<ana_del lemma="пуш`ок" pos="С" gram="но,|мр,им,мн," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> которыми
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,тв,мн," stress="3" />
+	</w>
+ 	<w> ходят
+		<ana lemma="ход`ить" pos="Г" gram="нп,нс,|дст,3л,нст,мн," stress="1" />
+	</w>
+ 	<w> обозы
+		<ana lemma="об`оз" pos="С" gram="но,|мр,им,мн," stress="2" />
+		<ana_del lemma="об`оз" pos="С" gram="но,|мр,вн,мн," stress="2" />
+	</w>
+ 	<w> через
+		<ana lemma="ч`ерез" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> Кабарду
+		<ana lemma="кабарду?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana_del lemma="кабард?" pos="С" gram="|мр,дт,ед," stress="255" />
+	</w>
+ 	<w> из
+		<ana lemma="`из" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> Владикавказа
+		<ana lemma="владикавказ" pos="С" gram="дфст,лок,но,|мр,рд,ед," stress="255" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> Екатериноград
+		<ana lemma="екатериноград?" pos="С" gram="|мр,вн,ед," stress="255" />
+		<ana lemma="екатериноград?" pos="С" gram="|мр,им,ед," stress="255" />
+		<ana lemma="екатериноград?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Первый
+		<ana lemma="п`ервый" pos="ЧИСЛ-П" gram="|но,мр,вн,ед," stress="1" />
+		<ana lemma="п`ервый" pos="ЧИСЛ-П" gram="|но,од,мр,им,ед," stress="1" />
+	</w>
+ 	<w> день
+		<ana lemma="д`ень" pos="С" gram="но,|мр,вн,ед," stress="1" />
+		<ana lemma="д`ень" pos="С" gram="но,|мр,им,ед," stress="1" />
+		<ana_del lemma="д`еть" pos="Г" gram="пе,св,|дст,пвл,2л,ед," stress="1" />
+	</w>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> провел
+		<ana lemma="провест`и" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> очень
+		<ana lemma="`очень" pos="Н" gram="|" stress="0" />
+	</w>
+ 	<w> скучно
+		<ana lemma="ск`учно" pos="Н" gram="|" stress="2" />
+		<ana_del lemma="ск`учный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="2" />
+		<ana_del lemma="скучно" pos="ПРЕДК" gram="|нст," stress="255" />
+	</w>
+ 	<pun> ; </pun>
+ 	<w> на
+		<ana lemma="н`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> другой
+		<ana lemma="друг`ой" pos="МС-П" gram="|но,мр,вн,ед," stress="4" />
+		<ana lemma="друг`ой" pos="МС-П" gram="|но,од,жр,пр,ед," stress="4" />
+		<ana_del lemma="друг`ой" pos="МС-П" gram="|но,од,жр,дт,ед," stress="4" />
+		<ana_del lemma="друг`ой" pos="МС-П" gram="|но,од,жр,рд,ед," stress="4" />
+		<ana_del lemma="друг`ой" pos="МС-П" gram="|но,од,жр,тв,ед," stress="4" />
+		<ana_del lemma="друг`ой" pos="МС-П" gram="|но,од,мр,им,ед," stress="4" />
+	</w>
+ 	<w> рано
+		<ana lemma="р`ано" pos="Н" gram="|" stress="1" />
+		<ana_del lemma="рано" pos="ПРЕДК" gram="|нст," stress="255" />
+	</w>
+ 	<w> утром
+		<ana lemma="`утром" pos="Н" gram="|" stress="0" />
+		<ana_del lemma="`утро" pos="С" gram="но,|ср,тв,ед," stress="0" />
+	</w>
+ 	<w> въезжает
+		<ana lemma="въезж`ать" pos="Г" gram="нп,нс,|дст,3л,нст,ед," stress="5" />
+	</w>
+ 	<w> на
+		<ana lemma="н`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> двор
+		<ana lemma="дв`ор" pos="С" gram="но,|мр,вн,ед," stress="2" />
+		<ana_del lemma="дв`ор" pos="С" gram="но,|мр,им,ед," stress="2" />
+	</w>
+ 	<w> повозка
+		<ana lemma="пов`озка" pos="С" gram="но,|жр,им,ед," stress="3" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<w> А
+		<ana lemma="`а" pos="МЕЖД" gram="|" stress="0" />
+		<ana lemma="`а" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<pun> ! </pun>
+</s>
+<s>
+ 	<w> Максим
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana_del lemma="м`аксима" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,вн,ед," stress="4" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> Максимыч
+		<ana lemma="максимыч?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> ! </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> Мы
+		<ana lemma="м`ы" pos="МС" gram="|1л,им,мн," stress="1" />
+	</w>
+ 	<w> встретились
+		<ana lemma="встр`етиться" pos="Г" gram="нп,св,|дст,прш,мн," stress="4" />
+	</w>
+ 	<w> как
+		<ana lemma="к`ак" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="к`ак" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="как" pos="Н" gram="|вопр," stress="255" />
+	</w>
+ 	<w> старые
+		<ana lemma="ст`арый" pos="П" gram="кач,|но,од,им,мн," stress="2" />
+		<ana_del lemma="ст`арое" pos="С" gram="дфст,но,|ср,вн,мн," stress="2" />
+		<ana_del lemma="ст`арое" pos="С" gram="дфст,но,|ср,им,мн," stress="2" />
+		<ana_del lemma="ст`арый" pos="П" gram="кач,|но,вн,мн," stress="2" />
+	</w>
+ 	<w> приятели
+		<ana lemma="при`ятель" pos="С" gram="од,|мр,им,мн," stress="3" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> предложил
+		<ana lemma="предлож`ить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="7" />
+	</w>
+ 	<w> ему
+		<ana lemma="он" pos="МС" gram="|3л,мр,дт,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,дт,ед," stress="2" />
+	</w>
+ 	<w> свою
+		<ana lemma="св`ой" pos="МС-П" gram="|но,од,жр,вн,ед," stress="3" />
+	</w>
+ 	<w> комнату
+		<ana lemma="к`омната" pos="С" gram="но,|жр,вн,ед," stress="1" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> церемонился
+		<ana lemma="церем`ониться" pos="Г" gram="нп,нс,|дст,прш,мр,ед," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> даже
+		<ana lemma="д`аже" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="д`аже" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> ударил
+		<ana lemma="уд`арить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="2" />
+	</w>
+ 	<w> меня
+		<ana lemma="я" pos="МС" gram="|1л,вн,ед," stress="255" />
+		<ana lemma="я" pos="МС" gram="|1л,рд,ед," stress="255" />
+		<ana_del lemma="мень" pos="С" gram="фам,од,|мр,вн,ед," stress="255" />
+		<ana_del lemma="мень" pos="С" gram="фам,од,|мр,рд,ед," stress="255" />
+	</w>
+ 	<w> по
+		<ana lemma="п`о" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> плечу
+		<ana lemma="плеч`о" pos="С" gram="но,|ср,дт,ед," stress="4" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> скривил
+		<ana lemma="скрив`ить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="5" />
+	</w>
+ 	<w> рот
+		<ana lemma="р`от" pos="С" gram="од,|мр,им,ед," stress="1" />
+		<ana_del lemma="р`от" pos="С" gram="но,|мр,вн,ед," stress="1" />
+		<ana_del lemma="р`от" pos="С" gram="но,|мр,им,ед," stress="1" />
+		<ana_del lemma="р`ота" pos="С" gram="но,|жр,рд,мн," stress="1" />
+	</w>
+ 	<ob> на манер
+		<ana lemma="на_манер" pos="ПРЕДЛ" gram="" stress="255"/>
+		<singles>
+		 	<w> на
+				<ana lemma="н`а" pos="ПРЕДЛ" gram="|" stress="1" />
+			</w>
+		 	<w> манер
+				<ana lemma="ман`ер" pos="С" gram="но,|мр,вн,ед," stress="3" />
+				<ana_del lemma="ман`ер" pos="С" gram="но,|мр,им,ед," stress="3" />
+				<ana_del lemma="ман`ера" pos="С" gram="но,|жр,рд,мн," stress="3" />
+			</w>
+		</singles>
+	</ob>
+ 	<w> улыбки
+		<ana lemma="ул`ыбка" pos="С" gram="но,|жр,рд,ед," stress="2" />
+		<ana_del lemma="ул`ыбка" pos="С" gram="но,|жр,вн,мн," stress="2" />
+		<ana_del lemma="ул`ыбка" pos="С" gram="но,|жр,им,мн," stress="2" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Такой
+		<ana lemma="так`ой" pos="МС-П" gram="|но,од,мр,им,ед," stress="3" />
+		<ana_del lemma="так`ой" pos="МС-П" gram="|но,мр,вн,ед," stress="3" />
+		<ana_del lemma="так`ой" pos="МС-П" gram="|но,од,жр,дт,ед," stress="3" />
+		<ana_del lemma="так`ой" pos="МС-П" gram="|но,од,жр,пр,ед," stress="3" />
+		<ana_del lemma="так`ой" pos="МС-П" gram="|но,од,жр,рд,ед," stress="3" />
+		<ana_del lemma="так`ой" pos="МС-П" gram="|но,од,жр,тв,ед," stress="3" />
+	</w>
+ 	<w> чудак
+		<ana lemma="чуд`ак" pos="С" gram="од,|мр,им,ед," stress="3" />
+	</w>
+ 	<pun> ! </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> Максим
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana_del lemma="м`аксима" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,вн,ед," stress="4" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> Максимыч
+		<ana lemma="максимыч?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<w> имел
+		<ana lemma="им`еть" pos="Г" gram="пе,нс,|дст,прш,мр,ед," stress="2" />
+	</w>
+ 	<w> глубокие
+		<ana lemma="глуб`окий" pos="П" gram="кач,|но,вн,мн," stress="4" />
+		<ana lemma="глуб`окий" pos="П" gram="кач,|но,од,им,мн," stress="4" />
+	</w>
+ 	<w> сведения
+		<ana lemma="св`едение" pos="С" gram="но,|ср,вн,мн," stress="2" />
+		<ana lemma="св`едение" pos="С" gram="но,|ср,им,мн," stress="2" />
+		<ana_del lemma="св`едение" pos="С" gram="но,|ср,рд,ед," stress="2" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> поваренном
+		<ana lemma="пов`аренный" pos="П" gram="кач,|но,од,ср,пр,ед," stress="3" />
+		<ana lemma="повар`ить" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,ср,пр,ед," stress="3" />
+		<ana_del lemma="пов`аренный" pos="П" gram="кач,|но,од,мр,пр,ед," stress="3" />
+		<ana_del lemma="повар`ить" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,мр,пр,ед," stress="3" />
+	</w>
+ 	<w> искусстве
+		<ana lemma="иск`усство" pos="С" gram="но,|ср,пр,ед," stress="3" />
+	</w>
+ 	<pun> : </pun>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> удивительно
+		<ana lemma="удив`ительно" pos="Н" gram="|" stress="4" />
+		<ana_del lemma="удив`ительный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="4" />
+		<ana_del lemma="удивительно" pos="ПРЕДК" gram="|нст," stress="255" />
+	</w>
+ 	<w> хорошо
+		<ana lemma="хорош`о" pos="Н" gram="|" stress="5" />
+		<ana lemma="хорош`о" pos="ЧАСТ" gram="|" stress="5" />
+		<ana_del lemma="хор`оший" pos="П" gram="кач,|но,од,кр,ср,ед," stress="5" />
+		<ana_del lemma="хорошо" pos="ПРЕДК" gram="|нст," stress="255" />
+	</w>
+ 	<w> зажарил
+		<ana lemma="заж`арить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="3" />
+	</w>
+ 	<w> фазана
+		<ana lemma="фаз`ан" pos="С" gram="од,|мр,вн,ед," stress="3" />
+		<ana lemma="фаз`ан" pos="С" gram="од,|мр,рд,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> удачно
+		<ana lemma="уд`ачно" pos="Н" gram="|" stress="2" />
+		<ana_del lemma="уд`ачный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="2" />
+		<ana_del lemma="удачно" pos="ПРЕДК" gram="|нст," stress="255" />
+	</w>
+ 	<w> полил
+		<ana lemma="пол`ить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="3" />
+	</w>
+ 	<w> его
+		<ana lemma="его" pos="МС-П" gram="|0,но,од,ср,жр,мр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="2" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="2" />
+	</w>
+ 	<w> огуречным
+		<ana lemma="огур`ечный" pos="П" gram="кач,|но,од,мр,тв,ед," stress="4" />
+		<ana_del lemma="огур`ечный" pos="П" gram="кач,|но,од,дт,мн," stress="4" />
+		<ana_del lemma="огур`ечный" pos="П" gram="кач,|но,од,ср,тв,ед," stress="4" />
+	</w>
+ 	<w> рассолом
+		<ana lemma="расс`ол" pos="С" gram="но,|мр,тв,ед," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> должен
+		<ana lemma="д`олжен" pos="П" gram="кач,|но,од,кр,мр,ед," stress="1" />
+		<ana_del lemma="д`олжный" pos="П" gram="|но,од,кр,мр,ед," stress="1" />
+	</w>
+ 	<w> признаться
+		<ana lemma="призн`аться" pos="ИНФИНИТИВ" gram="нп,св,|дст," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+		<ana_del lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+	</w>
+ 	<w> без
+		<ana lemma="б`ез" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> него
+		<ana lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="3" />
+		<ana_del lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana_del lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="3" />
+	</w>
+ 	<w> пришлось
+		<ana lemma="прийт`ись" pos="Г" gram="нп,св,|дст,прш,ср,ед," stress="5" />
+	</w>
+ 	<w> бы
+		<ana lemma="б`ы" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> остаться
+		<ana lemma="ост`аться" pos="ИНФИНИТИВ" gram="нп,св,|дст," stress="3" />
+	</w>
+ 	<w> на
+		<ana lemma="н`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> сухоядении
+		<ana lemma="сухояд`ение" pos="С" gram="но,|ср,пр,ед," stress="6" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Бутылка
+		<ana lemma="бут`ылка" pos="С" gram="но,|жр,им,ед," stress="3" />
+	</w>
+ 	<w> кахетинского
+		<ana lemma="кахет`инский" pos="П" gram="|но,од,мр,рд,ед," stress="5" />
+		<ana lemma="кахет`инский" pos="П" gram="|но,од,ср,рд,ед," stress="5" />
+		<ana lemma="кахет`инский" pos="П" gram="|од,мр,вн,ед," stress="5" />
+		<ana lemma="кахет`инское" pos="С" gram="дфст,но,|ср,рд,ед," stress="5" />
+	</w>
+ 	<w> помогла
+		<ana lemma="пом`очь" pos="Г" gram="нп,св,|дст,прш,жр,ед," stress="6" />
+	</w>
+ 	<w> нам
+		<ana lemma="м`ы" pos="МС" gram="|1л,дт,мн," stress="1" />
+	</w>
+ 	<w> забыть
+		<ana lemma="заб`ыть" pos="ИНФИНИТИВ" gram="пе,св,|дст," stress="3" />
+	</w>
+ 	<w> о
+		<ana lemma="о" pos="ПРЕДЛ" gram="|" stress="255" />
+		<ana_del lemma="о" pos="МЕЖД" gram="|" stress="255" />
+	</w>
+ 	<w> скромном
+		<ana lemma="скр`омный" pos="П" gram="кач,|но,од,ср,пр,ед," stress="3" />
+		<ana_del lemma="скр`омный" pos="П" gram="кач,|но,од,мр,пр,ед," stress="3" />
+	</w>
+ 	<w> числе
+		<ana lemma="числ`о" pos="С" gram="но,|ср,пр,ед," stress="4" />
+	</w>
+ 	<w> блюд
+		<ana lemma="бл`юдо" pos="С" gram="но,|ср,рд,мн," stress="2" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> которых
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,пр,мн," stress="3" />
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,рд,мн," stress="3" />
+		<ana lemma="кот`орый" pos="МС-П" gram="|од,вн,мн," stress="3" />
+	</w>
+ 	<w> было
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,ср,ед," stress="1" />
+		<ana_del lemma="б`ыло" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> всего
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,мр,рд,ед," stress="4" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,ср,рд,ед," stress="4" />
+		<ana lemma="в`есь" pos="МС-П" gram="|од,мр,вн,ед," stress="4" />
+		<ana lemma="все" pos="МС" gram="|ср,рд,ед," stress="255" />
+		<ana lemma="всег`о" pos="Н" gram="|" stress="4" />
+		<ana lemma="всег`о" pos="ЧАСТ" gram="|" stress="4" />
+	</w>
+ 	<w> одно
+		<ana lemma="од`ин" pos="МС-П" gram="|но,од,ср,им,ед," stress="3" />
+		<ana_del lemma="од`ин" pos="МС-П" gram="|но,од,ср,вн,ед," stress="3" />
+		<ana_del lemma="один" pos="ЧИСЛ" gram="|ср,вн," stress="255" />
+		<ana_del lemma="один" pos="ЧИСЛ" gram="|ср,им," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> и
+		<ana lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> закурив
+		<ana lemma="закур`ить" pos="ДЕЕПРИЧАСТИЕ" gram="пе,св,|дст,прш," stress="5" />
+	</w>
+ 	<w> трубки
+		<ana lemma="тр`убка" pos="С" gram="но,|жр,вн,мн," stress="2" />
+		<ana lemma="тр`убка" pos="С" gram="но,|жр,им,мн," stress="2" />
+		<ana lemma="тр`убка" pos="С" gram="но,|жр,рд,ед," stress="2" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> мы
+		<ana lemma="м`ы" pos="МС" gram="|1л,им,мн," stress="1" />
+	</w>
+ 	<w> уселись
+		<ana lemma="ус`есться" pos="Г" gram="нп,св,|дст,прш,мн," stress="2" />
+	</w>
+ 	<pun> : </pun>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> у
+		<ana lemma="`у" pos="ПРЕДЛ" gram="|" stress="0" />
+		<ana_del lemma="у" pos="МЕЖД" gram="|" stress="255" />
+	</w>
+ 	<w> окна
+		<ana lemma="окн`о" pos="С" gram="но,|ср,рд,ед," stress="3" />
+		<ana_del lemma="окн`о" pos="С" gram="но,|ср,вн,мн," stress="0" />
+		<ana_del lemma="окн`о" pos="С" gram="но,|ср,им,мн," stress="0" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> у
+		<ana lemma="`у" pos="ПРЕДЛ" gram="|" stress="0" />
+		<ana_del lemma="у" pos="МЕЖД" gram="|" stress="255" />
+	</w>
+ 	<w> затопленной
+		<ana lemma="затоп`ить" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,жр,рд,ед," stress="3" />
+		<ana_del lemma="затоп`ить" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,жр,дт,ед," stress="3" />
+		<ana_del lemma="затоп`ить" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,жр,пр,ед," stress="3" />
+		<ana_del lemma="затоп`ить" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,жр,тв,ед," stress="3" />
+	</w>
+ 	<w> печи
+		<ana lemma="п`ечь" pos="С" gram="но,|жр,рд,ед," stress="1" />
+		<ana_del lemma="п`ечь" pos="С" gram="но,|2,жр,пр,ед," stress="3" />
+		<ana_del lemma="п`ечь" pos="С" gram="но,|жр,вн,мн," stress="1" />
+		<ana_del lemma="п`ечь" pos="С" gram="но,|жр,дт,ед," stress="1" />
+		<ana_del lemma="п`ечь" pos="С" gram="но,|жр,им,мн," stress="1" />
+		<ana_del lemma="п`ечь" pos="С" gram="но,|жр,пр,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<ob> потому что
+		<ana lemma="потому_что" pos="ПОДЧ_СОЮЗ" gram="" stress="255"/>
+		<singles>
+		 	<w> потому
+				<ana_del lemma="потом`у" pos="Н" gram="|указат," stress="5" />
+			</w>
+		 	<w> что
+				<ana_del lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+				<ana_del lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+				<ana_del lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+			</w>
+		</singles>
+	</ob>
+ 	<w> день
+		<ana lemma="д`ень" pos="С" gram="но,|мр,им,ед," stress="1" />
+		<ana_del lemma="д`ень" pos="С" gram="но,|мр,вн,ед," stress="1" />
+		<ana_del lemma="д`еть" pos="Г" gram="пе,св,|дст,пвл,2л,ед," stress="1" />
+	</w>
+ 	<w> был
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,мр,ед," stress="1" />
+	</w>
+ 	<w> сырой
+		<ana lemma="сыр`ой" pos="П" gram="кач,|но,мр,вн,ед," stress="3" />
+		<ana lemma="сыр`ой" pos="П" gram="кач,|но,од,жр,дт,ед," stress="3" />
+		<ana lemma="сыр`ой" pos="П" gram="кач,|но,од,жр,пр,ед," stress="3" />
+		<ana lemma="сыр`ой" pos="П" gram="кач,|но,од,жр,рд,ед," stress="3" />
+		<ana lemma="сыр`ой" pos="П" gram="кач,|но,од,жр,тв,ед," stress="3" />
+		<ana lemma="сыр`ой" pos="П" gram="кач,|но,од,мр,им,ед," stress="3" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> холодный
+		<ana lemma="хол`одный" pos="П" gram="кач,|но,мр,вн,ед," stress="3" />
+		<ana lemma="хол`одный" pos="П" gram="кач,|но,од,мр,им,ед," stress="3" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Мы
+		<ana lemma="м`ы" pos="МС" gram="|1л,им,мн," stress="1" />
+	</w>
+ 	<w> молчали
+		<ana lemma="молч`ать" pos="Г" gram="нп,нс,|дст,прш,мн," stress="4" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Об
+		<ana lemma="`об" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> чем
+		<ana lemma="что" pos="МС" gram="|ср,пр,ед," stress="255" />
+		<ana_del lemma="ч`ем" pos="СОЮЗ" gram="|" stress="1" />
+		<ana_del lemma="что" pos="МС" gram="|ср,тв,ед," stress="255" />
+	</w>
+ 	<w> было
+		<ana lemma="б`ыло" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,ср,ед," stress="1" />
+	</w>
+ 	<w> нам
+		<ana lemma="м`ы" pos="МС" gram="|1л,дт,мн," stress="1" />
+	</w>
+ 	<w> говорить
+		<ana lemma="говор`ить" pos="ИНФИНИТИВ" gram="пе,нс,|дст," stress="5" />
+	</w>
+ 	<pun> ? </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> Он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> уж
+		<ana lemma="`уж" pos="Н" gram="|" stress="0" />
+		<ana lemma="`уж" pos="С" gram="од,|мр,им,ед," stress="0" />
+		<ana lemma="`уж" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> рассказал
+		<ana lemma="рассказ`ать" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="7" />
+	</w>
+ 	<w> мне
+		<ana lemma="я" pos="МС" gram="|1л,дт,ед," stress="255" />
+		<ana lemma="я" pos="МС" gram="|1л,пр,ед," stress="255" />
+	</w>
+ 	<w> об
+		<ana lemma="`об" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> себе
+		<ana lemma="себ`я" pos="МС" gram="|пр," stress="3" />
+		<ana_del lemma="себ`е" pos="ЧАСТ" gram="|" stress="3" />
+		<ana_del lemma="себ`я" pos="МС" gram="|дт," stress="3" />
+	</w>
+ 	<w> все
+		<ana lemma="в`есь" pos="МС-П" gram="|но,вн,мн," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,им,мн," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,ср,вн,ед," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,ср,им,ед," stress="2" />
+		<ana lemma="все" pos="МС" gram="|вн,мн," stress="255" />
+		<ana lemma="все" pos="МС" gram="|им,мн," stress="255" />
+		<ana lemma="все" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="все" pos="МС" gram="|ср,им,ед," stress="255" />
+		<ana lemma="все" pos="Н" gram="|" stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+		<ana_del lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+	</w>
+ 	<w> было
+		<ana lemma="б`ыло" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,ср,ед," stress="1" />
+	</w>
+ 	<w> занимательного
+		<ana lemma="заним`ательный" pos="П" gram="кач,|но,од,мр,рд,ед," stress="5" />
+		<ana lemma="заним`ательный" pos="П" gram="кач,|но,од,ср,рд,ед," stress="5" />
+		<ana lemma="заним`ательный" pos="П" gram="кач,|од,мр,вн,ед," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> а
+		<ana lemma="`а" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="МЕЖД" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> мне
+		<ana lemma="я" pos="МС" gram="|1л,дт,ед," stress="255" />
+		<ana lemma="я" pos="МС" gram="|1л,пр,ед," stress="255" />
+	</w>
+ 	<w> было
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,ср,ед," stress="1" />
+		<ana_del lemma="б`ыло" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> нечего
+		<ana lemma="н`ечего" pos="МС-ПРЕДК" gram="|рд,ед," stress="1" />
+	</w>
+ 	<w> рассказывать
+		<ana lemma="расск`азывать" pos="ИНФИНИТИВ" gram="пе,нс,|дст," stress="5" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> смотрел
+		<ana lemma="смотр`еть" pos="Г" gram="пе,нс,|дст,прш,мр,ед," stress="5" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> окно
+		<ana lemma="окн`о" pos="С" gram="но,|ср,вн,ед," stress="3" />
+		<ana lemma="окн`о" pos="С" gram="но,|ср,им,ед," stress="3" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Множество
+		<ana lemma="мн`ожество" pos="С" gram="но,|ср,вн,ед," stress="2" />
+		<ana lemma="мн`ожество" pos="С" gram="но,|ср,им,ед," stress="2" />
+	</w>
+ 	<w> низеньких
+		<ana lemma="н`изенький" pos="П" gram="|но,од,рд,мн," stress="1" />
+		<ana_del lemma="н`изенький" pos="П" gram="|но,од,пр,мн," stress="1" />
+		<ana_del lemma="н`изенький" pos="П" gram="|од,вн,мн," stress="1" />
+	</w>
+ 	<w> домиков
+		<ana lemma="д`омик" pos="С" gram="но,|мр,рд,мн," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> разбросанных
+		<ana lemma="разброс`ать" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,пр,мн," stress="5" />
+		<ana lemma="разброс`ать" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,рд,мн," stress="5" />
+		<ana lemma="разброс`ать" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,од,прш,вн,мн," stress="5" />
+	</w>
+ 	<w> по
+		<ana lemma="п`о" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> берегу
+		<ana lemma="б`ерег" pos="С" gram="но,|2,мр,пр,ед," stress="5" />
+		<ana lemma="б`ерег" pos="С" gram="но,|мр,дт,ед," stress="1" />
+		<ana_del lemma="бер`ечь" pos="Г" gram="пе,нс,|дст,1л,нст,ед," stress="5" />
+	</w>
+ 	<w> Терека
+		<ana lemma="терек" pos="С" gram="дфст,лок,но,|мр,рд,ед," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> который
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,мр,им,ед," stress="3" />
+		<ana_del lemma="кот`орый" pos="МС-П" gram="|но,мр,вн,ед," stress="3" />
+	</w>
+ 	<w> разбегается
+		<ana lemma="разб`егаться" pos="Г" gram="нп,св,|дст,3л,буд,ед," stress="4" />
+		<ana lemma="разбег`аться" pos="Г" gram="нп,нс,|дст,3л,нст,ед," stress="6" />
+	</w>
+ 	<w> все
+		<ana lemma="в`есь" pos="МС-П" gram="|но,вн,мн," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,им,мн," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,ср,вн,ед," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,ср,им,ед," stress="2" />
+		<ana lemma="все" pos="МС" gram="|вн,мн," stress="255" />
+		<ana lemma="все" pos="МС" gram="|им,мн," stress="255" />
+		<ana lemma="все" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="все" pos="МС" gram="|ср,им,ед," stress="255" />
+		<ana lemma="все" pos="Н" gram="|" stress="255" />
+	</w>
+ 	<w> шире
+		<ana lemma="шир`окий" pos="П" gram="кач,|сравн,но,од," stress="1" />
+		<ana_del lemma="шире" pos="С" gram="лок,но,|0,жр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> шире
+		<ana lemma="шир`окий" pos="П" gram="кач,|сравн,но,од," stress="1" />
+		<ana_del lemma="шире" pos="С" gram="лок,но,|0,жр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> мелькали
+		<ana lemma="мельк`ать" pos="Г" gram="нп,нс,|дст,прш,мн," stress="5" />
+	</w>
+ 	<w> из-за
+		<ana lemma="из-з`а" pos="ПРЕДЛ" gram="|" stress="4" />
+	</w>
+ 	<w> дерев
+		<ana lemma="д`ерево" pos="С" gram="но,|ср,рд,мн," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> а
+		<ana lemma="`а" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="МЕЖД" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> дальше
+		<ana lemma="дал`екий" pos="П" gram="кач,|сравн,но,од," stress="1" />
+	</w>
+ 	<w> синелись
+		<ana lemma="син`еться" pos="Г" gram="нп,нс,|дст,прш,мн," stress="3" />
+	</w>
+ 	<w> зубчатою
+		<ana lemma="зубч`атый" pos="П" gram="кач,|но,од,жр,тв,ед," stress="4" />
+	</w>
+ 	<w> стеной
+		<ana lemma="стен`а" pos="С" gram="но,|жр,тв,ед," stress="4" />
+	</w>
+ 	<w> горы
+		<ana lemma="гор`а" pos="С" gram="но,|жр,вн,мн," stress="1" />
+		<ana lemma="гор`а" pos="С" gram="но,|жр,им,мн," stress="1" />
+		<ana lemma="гор`а" pos="С" gram="но,|жр,рд,ед," stress="3" />
+		<ana_del lemma="Гор" pos="С" gram="од,|имя,мр,им,мн," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> из-за
+		<ana lemma="из-з`а" pos="ПРЕДЛ" gram="|" stress="4" />
+	</w>
+ 	<w> них
+		<ana lemma="он`и" pos="МС" gram="|3л,рд,мн," stress="1" />
+		<ana_del lemma="он`и" pos="МС" gram="|3л,вн,мн," stress="1" />
+		<ana_del lemma="он`и" pos="МС" gram="|3л,пр,мн," stress="1" />
+	</w>
+ 	<w> выглядывал
+		<ana lemma="выгл`ядывать" pos="Г" gram="нп,нс,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> Казбек
+		<ana lemma="Казбек" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana lemma="казбек" pos="С" gram="дфст,лок,но,|мр,им,ед," stress="255" />
+		<ana_del lemma="казбек" pos="С" gram="дфст,лок,но,|мр,вн,ед," stress="255" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> своей
+		<ana lemma="св`ой" pos="МС-П" gram="|но,од,жр,пр,ед," stress="3" />
+		<ana_del lemma="св`ой" pos="МС-П" gram="|но,од,жр,дт,ед," stress="3" />
+		<ana_del lemma="св`ой" pos="МС-П" gram="|но,од,жр,рд,ед," stress="3" />
+		<ana_del lemma="св`ой" pos="МС-П" gram="|но,од,жр,тв,ед," stress="3" />
+	</w>
+ 	<w> белой
+		<ana lemma="б`елый" pos="П" gram="кач,|но,од,жр,пр,ед," stress="1" />
+		<ana_del lemma="Б`ела" pos="С" gram="од,|имя,жр,тв,ед," stress="1" />
+		<ana_del lemma="б`елый" pos="П" gram="кач,|но,од,жр,дт,ед," stress="1" />
+		<ana_del lemma="б`елый" pos="П" gram="кач,|но,од,жр,рд,ед," stress="1" />
+		<ana_del lemma="б`елый" pos="П" gram="кач,|но,од,жр,тв,ед," stress="1" />
+	</w>
+ 	<w> кардинальской
+		<ana lemma="кардин`альский" pos="П" gram="|но,од,жр,пр,ед," stress="6" />
+		<ana_del lemma="кардин`альский" pos="П" gram="|но,од,жр,дт,ед," stress="6" />
+		<ana_del lemma="кардин`альский" pos="П" gram="|но,од,жр,рд,ед," stress="6" />
+		<ana_del lemma="кардин`альский" pos="П" gram="|но,од,жр,тв,ед," stress="6" />
+	</w>
+ 	<w> шапке
+		<ana lemma="ш`апка" pos="С" gram="но,|жр,пр,ед," stress="1" />
+		<ana_del lemma="ш`апка" pos="С" gram="но,|жр,дт,ед," stress="1" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> ними
+		<ana lemma="он`и" pos="МС" gram="|3л,тв,мн," stress="1" />
+	</w>
+ 	<w> мысленно
+		<ana lemma="м`ысленно" pos="Н" gram="|" stress="1" />
+		<ana_del lemma="м`ысленный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="1" />
+	</w>
+ 	<w> прощался
+		<ana lemma="прощ`аться" pos="Г" gram="нп,нс,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<pun> : </pun>
+ 	<w> мне
+		<ana lemma="я" pos="МС" gram="|1л,дт,ед," stress="255" />
+		<ana lemma="я" pos="МС" gram="|1л,пр,ед," stress="255" />
+	</w>
+ 	<w> стало
+		<ana lemma="ст`ать" pos="Г" gram="нп,св,|дст,прш,ср,ед," stress="2" />
+	</w>
+ 	<w> их
+		<ana lemma="их" pos="МС-П" gram="|0,но,од,ср,жр,мр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana lemma="он`и" pos="МС" gram="|3л,вн,мн," stress="0" />
+		<ana lemma="он`и" pos="МС" gram="|3л,рд,мн," stress="0" />
+	</w>
+ 	<w> жалко
+		<ana lemma="ж`алко" pos="Н" gram="|" stress="1" />
+		<ana_del lemma="ж`алкий" pos="П" gram="кач,|но,од,кр,ср,ед," stress="1" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<w> Так
+		<ana lemma="т`ак" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="т`ак" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="так" pos="Н" gram="|указат," stress="255" />
+	</w>
+ 	<w> сидели
+		<ana lemma="сид`еть" pos="Г" gram="нп,нс,|дст,прш,мн," stress="3" />
+	</w>
+ 	<w> мы
+		<ana lemma="м`ы" pos="МС" gram="|1л,им,мн," stress="1" />
+	</w>
+ 	<w> долго
+		<ana lemma="д`олго" pos="Н" gram="|" stress="1" />
+		<ana_del lemma="д`олгий" pos="П" gram="кач,|но,од,кр,ср,ед," stress="1" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Солнце
+		<ana lemma="с`олнце" pos="С" gram="но,|ср,им,ед," stress="1" />
+		<ana_del lemma="с`олнце" pos="С" gram="но,|ср,вн,ед," stress="1" />
+		<ana_del lemma="с`олнце" pos="С" gram="но,|ср,пр,ед," stress="1" />
+	</w>
+ 	<w> пряталось
+		<ana lemma="пр`ятаться" pos="Г" gram="нп,нс,|дст,прш,ср,ед," stress="2" />
+	</w>
+ 	<w> за
+		<ana lemma="з`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> холодные
+		<ana lemma="хол`одный" pos="П" gram="кач,|но,вн,мн," stress="3" />
+		<ana_del lemma="хол`одное" pos="С" gram="дфст,но,|ср,вн,мн," stress="3" />
+		<ana_del lemma="хол`одное" pos="С" gram="дфст,но,|ср,им,мн," stress="3" />
+		<ana_del lemma="хол`одный" pos="П" gram="кач,|но,од,им,мн," stress="3" />
+	</w>
+ 	<w> вершины
+		<ana lemma="верш`ина" pos="С" gram="но,|жр,вн,мн," stress="4" />
+		<ana_del lemma="верш`ина" pos="С" gram="но,|жр,им,мн," stress="4" />
+		<ana_del lemma="верш`ина" pos="С" gram="но,|жр,рд,ед," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> беловатый
+		<ana lemma="белов`атый" pos="П" gram="кач,|но,од,мр,им,ед," stress="5" />
+		<ana_del lemma="белов`атый" pos="П" gram="кач,|но,мр,вн,ед," stress="5" />
+	</w>
+ 	<w> туман
+		<ana lemma="тум`ан" pos="С" gram="но,|мр,им,ед," stress="3" />
+		<ana_del lemma="тум`ан" pos="С" gram="но,|мр,вн,ед," stress="3" />
+	</w>
+ 	<w> начинал
+		<ana lemma="начин`ать" pos="Г" gram="пе,нс,|дст,прш,мр,ед," stress="5" />
+	</w>
+ 	<w> расходиться
+		<ana lemma="расход`иться" pos="ИНФИНИТИВ" gram="нп,нс,|дст," stress="6" />
+		<ana lemma="расход`иться" pos="ИНФИНИТИВ" gram="нп,св,|дст," stress="6" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> долинах
+		<ana lemma="дол`ина" pos="С" gram="но,|жр,пр,мн," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> когда
+		<ana lemma="когд`а" pos="СОЮЗ" gram="|" stress="4" />
+		<ana lemma="когда" pos="Н" gram="|вопр," stress="255" />
+	</w>
+ 	<w> на
+		<ana lemma="н`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> улице
+		<ana lemma="`улица" pos="С" gram="но,|жр,пр,ед," stress="0" />
+		<ana_del lemma="`улица" pos="С" gram="но,|жр,дт,ед," stress="0" />
+	</w>
+ 	<w> раздался
+		<ana lemma="разд`аться" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> звон
+		<ana lemma="зв`он" pos="С" gram="но,|мр,им,ед," stress="2" />
+		<ana_del lemma="зв`он" pos="С" gram="но,|мр,вн,ед," stress="2" />
+	</w>
+ 	<w> дорожного
+		<ana lemma="дор`ожный" pos="П" gram="кач,|но,од,мр,рд,ед," stress="3" />
+		<ana_del lemma="дор`ожный" pos="П" gram="кач,|но,од,ср,рд,ед," stress="3" />
+		<ana_del lemma="дор`ожный" pos="П" gram="кач,|од,мр,вн,ед," stress="3" />
+	</w>
+ 	<w> колокольчика
+		<ana lemma="колок`ольчик" pos="С" gram="но,|мр,рд,ед," stress="5" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> крик
+		<ana lemma="кр`ик" pos="С" gram="но,|мр,вн,ед," stress="2" />
+		<ana lemma="кр`ик" pos="С" gram="но,|мр,им,ед," stress="2" />
+	</w>
+ 	<w> извозчиков
+		<ana lemma="изв`озчик" pos="С" gram="од,|мр,вн,мн," stress="3" />
+		<ana lemma="изв`озчик" pos="С" gram="од,|мр,рд,мн," stress="3" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Несколько
+		<ana lemma="несколько" pos="ЧИСЛ" gram="|вн," stress="255" />
+		<ana lemma="несколько" pos="ЧИСЛ" gram="|им," stress="255" />
+		<ana_del lemma="н`есколько" pos="Н" gram="|" stress="1" />
+	</w>
+ 	<w> повозок
+		<ana lemma="пов`озка" pos="С" gram="но,|жр,рд,мн," stress="3" />
+	</w>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> грязными
+		<ana lemma="гр`язный" pos="П" gram="кач,|но,од,тв,мн," stress="2" />
+	</w>
+ 	<w> армянами
+		<ana lemma="армян`ин" pos="С" gram="од,|мр,тв,мн," stress="3" />
+	</w>
+ 	<w> въехало
+		<ana lemma="въ`ехать" pos="Г" gram="нп,св,|дст,прш,ср,ед," stress="2" />
+	</w>
+ 	<w> на
+		<ana lemma="н`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> двор
+		<ana lemma="дв`ор" pos="С" gram="но,|мр,вн,ед," stress="2" />
+		<ana_del lemma="дв`ор" pos="С" gram="но,|мр,им,ед," stress="2" />
+	</w>
+ 	<w> гостиницы
+		<ana lemma="гост`иница" pos="С" gram="но,|жр,вн,мн," stress="4" />
+		<ana lemma="гост`иница" pos="С" gram="но,|жр,им,мн," stress="4" />
+		<ana lemma="гост`иница" pos="С" gram="но,|жр,рд,ед," stress="4" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> за
+		<ana lemma="з`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> ними
+		<ana lemma="он`и" pos="МС" gram="|3л,тв,мн," stress="1" />
+	</w>
+ 	<w> пустая
+		<ana lemma="пуст`ой" pos="П" gram="кач,|но,од,жр,им,ед," stress="4" />
+	</w>
+ 	<w> дорожная
+		<ana lemma="дор`ожный" pos="П" gram="кач,|но,од,жр,им,ед," stress="3" />
+	</w>
+ 	<w> коляска
+		<ana lemma="кол`яска" pos="С" gram="но,|жр,им,ед," stress="3" />
+	</w>
+ 	<pun> ; </pun>
+ 	<w> ее
+		<ana lemma="ее" pos="МС-П" gram="|0,но,од,ср,жр,мр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana lemma="он`а" pos="МС" gram="|3л,жр,вн,ед," stress="1" />
+		<ana lemma="он`а" pos="МС" gram="|3л,жр,рд,ед," stress="1" />
+	</w>
+ 	<w> легкий
+		<ana lemma="л`егкий" pos="П" gram="кач,|но,мр,вн,ед," stress="1" />
+		<ana lemma="л`егкий" pos="П" gram="кач,|но,од,мр,им,ед," stress="1" />
+	</w>
+ 	<w> ход
+		<ana lemma="х`од" pos="С" gram="но,|мр,им,ед," stress="1" />
+		<ana_del lemma="х`од" pos="С" gram="но,|мр,вн,ед," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> удобное
+		<ana lemma="уд`обный" pos="П" gram="кач,|но,од,ср,вн,ед," stress="2" />
+		<ana lemma="уд`обный" pos="П" gram="кач,|но,од,ср,им,ед," stress="2" />
+	</w>
+ 	<w> устройство
+		<ana lemma="устр`ойство" pos="С" gram="но,|ср,вн,ед," stress="4" />
+		<ana lemma="устр`ойство" pos="С" gram="но,|ср,им,ед," stress="4" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> щегольской
+		<ana lemma="щегольск`ой" pos="П" gram="|но,мр,вн,ед," stress="8" />
+		<ana lemma="щегольск`ой" pos="П" gram="|но,од,мр,им,ед," stress="8" />
+		<ana_del lemma="щегольск`ой" pos="П" gram="|но,од,жр,дт,ед," stress="8" />
+		<ana_del lemma="щегольск`ой" pos="П" gram="|но,од,жр,пр,ед," stress="8" />
+		<ana_del lemma="щегольск`ой" pos="П" gram="|но,од,жр,рд,ед," stress="8" />
+		<ana_del lemma="щегольск`ой" pos="П" gram="|но,од,жр,тв,ед," stress="8" />
+		<ana_del lemma="щегольский" pos="П" gram="|но,од,жр,дт,ед," stress="255" />
+		<ana_del lemma="щегольский" pos="П" gram="|но,од,жр,пр,ед," stress="255" />
+		<ana_del lemma="щегольский" pos="П" gram="|но,од,жр,рд,ед," stress="255" />
+		<ana_del lemma="щегольский" pos="П" gram="|но,од,жр,тв,ед," stress="255" />
+	</w>
+ 	<w> вид
+		<ana lemma="в`ид" pos="С" gram="но,|мр,вн,ед," stress="1" />
+		<ana lemma="в`ид" pos="С" gram="но,|мр,им,ед," stress="1" />
+	</w>
+ 	<w> имели
+		<ana lemma="им`еть" pos="Г" gram="пе,нс,|дст,прш,мн," stress="2" />
+	</w>
+ 	<w> какой-то
+		<ana lemma="как`ой-то" pos="МС-П" gram="|но,од,мр,им,ед," stress="3" />
+		<ana_del lemma="как`ой-то" pos="МС-П" gram="|но,од,жр,дт,ед," stress="3" />
+		<ana_del lemma="как`ой-то" pos="МС-П" gram="|но,од,жр,пр,ед," stress="3" />
+		<ana_del lemma="как`ой-то" pos="МС-П" gram="|но,од,жр,рд,ед," stress="3" />
+		<ana_del lemma="как`ой-то" pos="МС-П" gram="|но,од,жр,тв,ед," stress="3" />
+		<ana_del lemma="как`ой-то" pos="МС-П" gram="|од,мр,вн,ед," stress="3" />
+	</w>
+ 	<w> заграничный
+		<ana lemma="загран`ичный" pos="П" gram="|но,од,мр,им,ед," stress="6" />
+		<ana_del lemma="загран`ичный" pos="П" gram="|но,мр,вн,ед," stress="6" />
+	</w>
+ 	<w> отпечаток
+		<ana lemma="отпеч`аток" pos="С" gram="но,|мр,им,ед," stress="5" />
+		<ana_del lemma="отпеч`аток" pos="С" gram="но,|мр,вн,ед," stress="5" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> За
+		<ana lemma="з`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> нею
+		<ana lemma="он`а" pos="МС" gram="|3л,жр,тв,ед," stress="1" />
+		<ana_del lemma="нея" pos="С" gram="дфст,лок,но,|жр,вн,ед," stress="255" />
+	</w>
+ 	<w> шел
+		<ana lemma="идт`и" pos="Г" gram="нп,нс,|дст,прш,мр,ед," stress="1" />
+	</w>
+ 	<w> человек
+		<ana lemma="челов`ек" pos="С" gram="од,|мр,им,ед," stress="5" />
+		<ana_del lemma="челов`ек" pos="С" gram="од,|мр,рд,мн," stress="5" />
+	</w>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> большими
+		<ana lemma="б`ольший" pos="П" gram="|но,од,тв,мн," stress="1" />
+		<ana lemma="больш`ой" pos="П" gram="кач,|но,од,тв,мн," stress="5" />
+	</w>
+ 	<w> усами
+		<ana lemma="`ус" pos="С" gram="но,|мр,тв,мн," stress="2" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> венгерке
+		<ana lemma="венг`ерка" pos="С" gram="но,|жр,пр,ед," stress="4" />
+		<ana lemma="венг`ерка" pos="С" gram="од,|жр,пр,ед," stress="4" />
+		<ana_del lemma="венг`ерка" pos="С" gram="но,|жр,дт,ед," stress="4" />
+		<ana_del lemma="венг`ерка" pos="С" gram="од,|жр,дт,ед," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> довольно
+		<ana lemma="дов`ольно" pos="Н" gram="|" stress="3" />
+		<ana_del lemma="дов`ольный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="3" />
+		<ana_del lemma="довольно" pos="ПРЕДК" gram="|нст," stress="255" />
+	</w>
+ 	<w> хорошо
+		<ana lemma="хорош`о" pos="Н" gram="|" stress="5" />
+		<ana_del lemma="хор`оший" pos="П" gram="кач,|но,од,кр,ср,ед," stress="5" />
+		<ana_del lemma="хорош`о" pos="ЧАСТ" gram="|" stress="5" />
+		<ana_del lemma="хорошо" pos="ПРЕДК" gram="|нст," stress="255" />
+	</w>
+ 	<w> одетый
+		<ana lemma="од`еть" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,мр,им,ед," stress="2" />
+		<ana lemma="од`еть" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,прш,мр,вн,ед," stress="2" />
+		<ana_del lemma="од`етый" pos="П" gram="кач,|но,мр,вн,ед," stress="2" />
+		<ana_del lemma="од`етый" pos="П" gram="кач,|но,од,мр,им,ед," stress="2" />
+	</w>
+ 	<w> для
+		<ana lemma="дл`я" pos="ПРЕДЛ" gram="|" stress="2" />
+		<ana_del lemma="дл`ить" pos="ДЕЕПРИЧАСТИЕ" gram="пе,нс,|дст,нст," stress="2" />
+	</w>
+ 	<w> лакея
+		<ana lemma="лак`ей" pos="С" gram="од,|мр,рд,ед," stress="3" />
+		<ana_del lemma="лак`ей" pos="С" gram="од,|мр,вн,ед," stress="3" />
+	</w>
+ 	<pun> ; </pun>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> его
+		<ana lemma="его" pos="МС-П" gram="|0,но,од,ср,жр,мр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana_del lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana_del lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana_del lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="2" />
+		<ana_del lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="2" />
+	</w>
+ 	<w> звании
+		<ana lemma="зв`ание" pos="С" gram="но,|ср,пр,ед," stress="2" />
+	</w>
+ 	<w> нельзя
+		<ana lemma="нельз`я" pos="ПРЕДК" gram="|нст," stress="5" />
+	</w>
+ 	<w> было
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,ср,ед," stress="1" />
+		<ana_del lemma="б`ыло" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> ошибиться
+		<ana lemma="ошиб`иться" pos="ИНФИНИТИВ" gram="нп,св,|дст," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> видя
+		<ana lemma="в`идеть" pos="ДЕЕПРИЧАСТИЕ" gram="пе,нс,|дст,нст," stress="1" />
+	</w>
+ 	<w> ухарскую
+		<ana lemma="`ухарский" pos="П" gram="|но,од,жр,вн,ед," stress="0" />
+	</w>
+ 	<w> замашку
+		<ana lemma="зам`ашка" pos="С" gram="но,|жр,вн,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> которой
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,жр,рд,ед," stress="3" />
+		<ana lemma="кот`орый" pos="МС-П" gram="|но,од,жр,тв,ед," stress="3" />
+		<ana_del lemma="кот`орый" pos="МС-П" gram="|но,од,жр,дт,ед," stress="3" />
+		<ana_del lemma="кот`орый" pos="МС-П" gram="|но,од,жр,пр,ед," stress="3" />
+	</w>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> вытряхивал
+		<ana lemma="вытр`яхивать" pos="Г" gram="пе,нс,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> золу
+		<ana lemma="зол`а" pos="С" gram="но,|жр,вн,ед," stress="3" />
+	</w>
+ 	<w> из
+		<ana lemma="`из" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> трубки
+		<ana lemma="тр`убка" pos="С" gram="но,|жр,рд,ед," stress="2" />
+		<ana_del lemma="тр`убка" pos="С" gram="но,|жр,вн,мн," stress="2" />
+		<ana_del lemma="тр`убка" pos="С" gram="но,|жр,им,мн," stress="2" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> покрикивал
+		<ana lemma="покр`икивать" pos="Г" gram="нп,нс,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> на
+		<ana lemma="н`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> ямщика
+		<ana lemma="ямщ`ик" pos="С" gram="од,|мр,вн,ед," stress="5" />
+		<ana_del lemma="ямщ`ик" pos="С" gram="од,|мр,рд,ед," stress="5" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> был
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,мр,ед," stress="1" />
+	</w>
+ 	<w> явно
+		<ana lemma="`явно" pos="Н" gram="|" stress="0" />
+		<ana_del lemma="`явный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="0" />
+	</w>
+ 	<w> балованный
+		<ana lemma="балов`ать" pos="ПРИЧАСТИЕ" gram="пе,нс,|стр,но,од,прш,мр,им,ед," stress="3" />
+		<ana_del lemma="бал`ованный" pos="П" gram="кач,|но,мр,вн,ед," stress="3" />
+		<ana_del lemma="бал`ованный" pos="П" gram="кач,|но,од,мр,им,ед," stress="3" />
+		<ana_del lemma="балов`ать" pos="ПРИЧАСТИЕ" gram="пе,нс,|стр,но,прш,мр,вн,ед," stress="3" />
+	</w>
+ 	<w> слуга
+		<ana lemma="слуг`а" pos="С" gram="од,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> ленивого
+		<ana lemma="лен`ивый" pos="П" gram="кач,|но,од,мр,рд,ед," stress="3" />
+		<ana lemma="лен`ивый" pos="П" gram="кач,|од,мр,вн,ед," stress="3" />
+		<ana_del lemma="лен`ивый" pos="П" gram="кач,|но,од,ср,рд,ед," stress="3" />
+	</w>
+ 	<w> барина
+		<ana lemma="б`арин" pos="С" gram="од,|мр,вн,ед," stress="1" />
+		<ana lemma="б`арин" pos="С" gram="од,|мр,рд,ед," stress="1" />
+	</w>
+ 	<pun> - </pun>
+ 	<w> нечто
+		<ana lemma="н`ечто" pos="МС" gram="|ср,вн,ед," stress="1" />
+		<ana lemma="н`ечто" pos="МС" gram="|ср,им,ед," stress="1" />
+	</w>
+ 	<w> вроде
+		<ana lemma="вр`оде" pos="ПРЕДЛ" gram="|" stress="2" />
+		<ana_del lemma="вроде" pos="ЧАСТ" gram="|" stress="255" />
+	</w>
+ 	<w> русского
+		<ana lemma="р`усский" pos="П" gram="|но,од,ср,рд,ед," stress="1" />
+		<ana lemma="р`усский" pos="С" gram="од,|мр,рд,ед," stress="1" />
+		<ana_del lemma="р`усский" pos="П" gram="|но,од,мр,рд,ед," stress="1" />
+		<ana_del lemma="р`усский" pos="П" gram="|од,мр,вн,ед," stress="1" />
+		<ana_del lemma="р`усский" pos="С" gram="од,|мр,вн,ед," stress="1" />
+	</w>
+ 	<w> Фигаро
+		<ana lemma="фигар`о" pos="С" gram="но,|0,ср,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="5" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Скажи
+		<ana lemma="сказ`ать" pos="Г" gram="пе,св,|дст,пвл,2л,ед," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> любезный
+		<ana lemma="люб`езный" pos="П" gram="кач,|но,мр,вн,ед," stress="3" />
+		<ana lemma="люб`езный" pos="П" gram="кач,|но,од,мр,им,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<pun> - </pun>
+ 	<w> закричал
+		<ana lemma="закрич`ать" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="6" />
+	</w>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> ему
+		<ana lemma="он" pos="МС" gram="|3л,мр,дт,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,дт,ед," stress="2" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> окно
+		<ana lemma="окн`о" pos="С" gram="но,|ср,вн,ед," stress="3" />
+		<ana lemma="окн`о" pos="С" gram="но,|ср,им,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<pun> - </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> это
+		<ana lemma="`это" pos="ЧАСТ" gram="|" stress="0" />
+		<ana lemma="`этот" pos="МС-П" gram="|но,од,ср,вн,ед," stress="0" />
+		<ana lemma="`этот" pos="МС-П" gram="|но,од,ср,им,ед," stress="0" />
+		<ana lemma="это" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="это" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<pun> - </pun>
+ 	<w> оказия
+		<ana lemma="ок`азия" pos="С" gram="но,|жр,им,ед," stress="2" />
+	</w>
+ 	<w> пришла
+		<ana lemma="прийт`и" pos="Г" gram="нп,св,|дст,прш,жр,ед," stress="5" />
+		<ana_del lemma="пр`ишлый" pos="П" gram="|но,од,кр,жр,ед," stress="2" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> ли
+		<ana lemma="л`и" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="л`и" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<pun> ? </pun>
+</s>
+<s>
+ 	<w> Он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> посмотрел
+		<ana lemma="посмотр`еть" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="7" />
+	</w>
+ 	<w> довольно
+		<ana lemma="дов`ольно" pos="Н" gram="|" stress="3" />
+		<ana_del lemma="дов`ольный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="3" />
+		<ana_del lemma="довольно" pos="ПРЕДК" gram="|нст," stress="255" />
+	</w>
+ 	<w> дерзко
+		<ana lemma="д`ерзко" pos="Н" gram="|" stress="1" />
+		<ana_del lemma="д`ерзкий" pos="П" gram="кач,|но,од,кр,ср,ед," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> поправил
+		<ana lemma="попр`авить" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="4" />
+		<ana_del lemma="попр`авить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> галстук
+		<ana lemma="г`алстук" pos="С" gram="но,|мр,им,ед," stress="1" />
+		<ana_del lemma="г`алстук" pos="С" gram="но,|мр,вн,ед," stress="1" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> отвернулся
+		<ana lemma="отверн`уться" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="6" />
+	</w>
+ 	<pun> ; </pun>
+ 	<w> шедший
+		<ana lemma="идт`и" pos="ПРИЧАСТИЕ" gram="нп,нс,|дст,но,од,прш,мр,им,ед," stress="1" />
+		<ana lemma="идт`и" pos="ПРИЧАСТИЕ" gram="нп,нс,|дст,но,прш,мр,вн,ед," stress="1" />
+	</w>
+ 	<w> подле
+		<ana lemma="п`одле" pos="ПРЕДЛ" gram="|" stress="1" />
+		<ana_del lemma="п`одле" pos="Н" gram="|" stress="1" />
+	</w>
+ 	<w> него
+		<ana lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="3" />
+		<ana_del lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana_del lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="3" />
+	</w>
+ 	<w> армянин
+		<ana lemma="армян`ин" pos="С" gram="од,|мр,им,ед," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> улыбаясь
+		<ana lemma="улыб`аться" pos="ДЕЕПРИЧАСТИЕ" gram="нп,нс,|дст,нст," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> отвечал
+		<ana lemma="отвеч`ать" pos="Г" gram="нп,нс,|дст,прш,мр,ед," stress="5" />
+	</w>
+ 	<w> за
+		<ana lemma="з`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> него
+		<ana lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="3" />
+		<ana_del lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana_del lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> точно
+		<ana lemma="т`очно" pos="Н" gram="|" stress="1" />
+		<ana lemma="т`очно" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="т`очно" pos="ЧАСТ" gram="|" stress="1" />
+		<ana_del lemma="т`очный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="1" />
+	</w>
+ 	<w> пришла
+		<ana lemma="прийт`и" pos="Г" gram="нп,св,|дст,прш,жр,ед," stress="5" />
+		<ana_del lemma="пр`ишлый" pos="П" gram="|но,од,кр,жр,ед," stress="2" />
+	</w>
+ 	<w> оказия
+		<ana lemma="ок`азия" pos="С" gram="но,|жр,им,ед," stress="2" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> завтра
+		<ana lemma="з`автра" pos="Н" gram="|" stress="1" />
+	</w>
+ 	<w> утром
+		<ana lemma="`утро" pos="С" gram="но,|ср,тв,ед," stress="0" />
+		<ana lemma="`утром" pos="Н" gram="|" stress="0" />
+	</w>
+ 	<w> отправится
+		<ana lemma="отпр`авиться" pos="Г" gram="нп,св,|дст,3л,буд,ед," stress="4" />
+	</w>
+ 	<w> обратно
+		<ana lemma="обр`атно" pos="Н" gram="|" stress="3" />
+		<ana_del lemma="обр`атный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="3" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Слава
+		<ana lemma="Слава" pos="С" gram="од,|имя,мр-жр,жр,мр,им,ед," stress="255" />
+		<ana lemma="сл`ава" pos="С" gram="но,|жр,им,ед," stress="2" />
+	</w>
+ 	<w> Богу
+		<ana lemma="б`ог" pos="С" gram="од,|мр,дт,ед," stress="1" />
+	</w>
+ 	<pun> ! </pun>
+ 	<pun> - </pun>
+ 	<w> сказал
+		<ana lemma="сказ`ать" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> Максим
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana_del lemma="м`аксима" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,вн,ед," stress="4" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> Максимыч
+		<ana lemma="максимыч?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> подошедший
+		<ana lemma="подойт`и" pos="ПРИЧАСТИЕ" gram="нп,св,|дст,но,од,прш,мр,им,ед," stress="5" />
+		<ana lemma="подойт`и" pos="ПРИЧАСТИЕ" gram="нп,св,|дст,но,прш,мр,вн,ед," stress="5" />
+	</w>
+ 	<w> к
+		<ana lemma="к" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> окну
+		<ana lemma="окн`о" pos="С" gram="но,|ср,дт,ед," stress="3" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> это
+		<ana lemma="`этот" pos="МС-П" gram="|но,од,ср,вн,ед," stress="0" />
+		<ana lemma="`этот" pos="МС-П" gram="|но,од,ср,им,ед," stress="0" />
+		<ana lemma="это" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="это" pos="МС" gram="|ср,им,ед," stress="255" />
+		<ana_del lemma="`это" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> время
+		<ana lemma="вр`емя" pos="С" gram="но,|ср,вн,ед," stress="2" />
+		<ana lemma="вр`емя" pos="С" gram="но,|ср,им,ед," stress="2" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Экая
+		<ana lemma="`экий" pos="МС-П" gram="|но,од,жр,им,ед," stress="0" />
+	</w>
+ 	<w> чудная
+		<ana lemma="ч`удный" pos="П" gram="кач,|но,од,жр,им,ед," stress="1" />
+		<ana lemma="чудн`ой" pos="П" gram="кач,|но,од,жр,им,ед," stress="4" />
+	</w>
+ 	<w> коляска
+		<ana lemma="кол`яска" pos="С" gram="но,|жр,им,ед," stress="3" />
+	</w>
+ 	<pun> ! </pun>
+ 	<pun> - </pun>
+ 	<w> прибавил
+		<ana lemma="приб`авить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<pun> - </pun>
+ 	<w> верно
+		<ana lemma="в`ерно" pos="Н" gram="|" stress="1" />
+		<ana_del lemma="в`ерно" pos="ВВОДН" gram="|" stress="1" />
+		<ana_del lemma="в`ерный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="1" />
+		<ana_del lemma="верно" pos="ПРЕДК" gram="|нст," stress="255" />
+	</w>
+ 	<w> какой-нибудь
+		<ana lemma="как`ой-нибудь" pos="МС-П" gram="|но,од,мр,им,ед," stress="3" />
+		<ana_del lemma="как`ой-нибудь" pos="МС-П" gram="|но,мр,вн,ед," stress="3" />
+		<ana_del lemma="как`ой-нибудь" pos="МС-П" gram="|но,од,жр,дт,ед," stress="3" />
+		<ana_del lemma="как`ой-нибудь" pos="МС-П" gram="|но,од,жр,пр,ед," stress="3" />
+		<ana_del lemma="как`ой-нибудь" pos="МС-П" gram="|но,од,жр,рд,ед," stress="3" />
+		<ana_del lemma="как`ой-нибудь" pos="МС-П" gram="|но,од,жр,тв,ед," stress="3" />
+	</w>
+ 	<w> чиновник
+		<ana lemma="чин`овник" pos="С" gram="од,|мр,им,ед," stress="3" />
+	</w>
+ 	<w> едет
+		<ana lemma="`ехать" pos="Г" gram="нп,нс,|дст,3л,нст,ед," stress="0" />
+	</w>
+ 	<w> на
+		<ana lemma="н`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> следствие
+		<ana lemma="сл`едствие" pos="С" gram="но,|ср,вн,ед," stress="2" />
+		<ana_del lemma="сл`едствие" pos="С" gram="но,|ср,им,ед," stress="2" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> Тифлис
+		<ana lemma="тифлис" pos="С" gram="лок,но,|мр,вн,ед," stress="255" />
+		<ana lemma="тифлис" pos="С" gram="лок,но,|мр,им,ед," stress="255" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Видно
+		<ana lemma="в`идно" pos="ВВОДН" gram="|" stress="1" />
+		<ana lemma="видно" pos="ПРЕДК" gram="|нст," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> знает
+		<ana lemma="зн`ать" pos="Г" gram="пе,нс,|дст,3л,нст,ед," stress="2" />
+	</w>
+ 	<w> наших
+		<ana lemma="н`аш" pos="МС-П" gram="|но,од,рд,мн," stress="1" />
+		<ana_del lemma="н`аш" pos="МС-П" gram="|но,од,пр,мн," stress="1" />
+		<ana_del lemma="н`аш" pos="МС-П" gram="|од,вн,мн," stress="1" />
+	</w>
+ 	<w> горок
+		<ana lemma="г`орка" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="горки" pos="С" gram="лок,но,|рд,мн," stress="255" />
+	</w>
+ 	<pun> ! </pun>
+</s>
+<s>
+ 	<w> Нет
+		<ana lemma="нет" pos="ПРЕДК" gram="|0," stress="255" />
+		<ana lemma="нет" pos="ЧАСТ" gram="|" stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> шутишь
+		<ana lemma="шут`ить" pos="Г" gram="нп,нс,|дст,2л,нст,ед," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> любезный
+		<ana lemma="люб`езный" pos="П" gram="кач,|но,мр,вн,ед," stress="3" />
+		<ana lemma="люб`езный" pos="П" gram="кач,|но,од,мр,им,ед," stress="3" />
+	</w>
+ 	<pun> : </pun>
+ 	<w> они
+		<ana lemma="он`и" pos="МС" gram="|3л,им,мн," stress="2" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> свой
+		<ana lemma="св`ой" pos="МС-П" gram="|но,од,мр,им,ед," stress="2" />
+		<ana_del lemma="св`ой" pos="МС-П" gram="|но,мр,вн,ед," stress="2" />
+	</w>
+ 	<w> брат
+		<ana lemma="бр`ат" pos="С" gram="од,|мр,им,ед," stress="2" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> растрясут
+		<ana lemma="растряст`и" pos="Г" gram="пе,св,|дст,3л,буд,мн," stress="7" />
+	</w>
+ 	<w> хоть
+		<ana lemma="х`оть" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="х`оть" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> английскую
+		<ana lemma="англ`ийский" pos="П" gram="|но,од,жр,вн,ед," stress="4" />
+	</w>
+ 	<pun> ! </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> А
+		<ana lemma="`а" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="МЕЖД" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> кто
+		<ana lemma="кт`о" pos="МС" gram="|мр,им,ед," stress="2" />
+	</w>
+ 	<w> бы
+		<ana lemma="б`ы" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> это
+		<ana lemma="`это" pos="ЧАСТ" gram="|" stress="0" />
+		<ana lemma="`этот" pos="МС-П" gram="|но,од,ср,вн,ед," stress="0" />
+		<ana lemma="`этот" pos="МС-П" gram="|но,од,ср,им,ед," stress="0" />
+		<ana lemma="это" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="это" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> такое
+		<ana lemma="так`ой" pos="МС-П" gram="|но,од,ср,вн,ед," stress="3" />
+		<ana lemma="так`ой" pos="МС-П" gram="|но,од,ср,им,ед," stress="3" />
+	</w>
+ 	<w> был
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,мр,ед," stress="1" />
+	</w>
+ 	<pun> - </pun>
+ 	<w> пойдемте-ка
+		<ana lemma="пойт`и" pos="Г" gram="нп,св,|дст,пвл,1л,мн," stress="255" />
+		<ana_del lemma="пойдемте-ка?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<w> узнать
+		<ana lemma="узн`ать" pos="ИНФИНИТИВ" gram="пе,св,|дст," stress="3" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<w> Мы
+		<ana lemma="м`ы" pos="МС" gram="|1л,им,мн," stress="1" />
+	</w>
+ 	<w> вышли
+		<ana lemma="в`ыйти" pos="Г" gram="нп,св,|дст,прш,мн," stress="1" />
+		<ana_del lemma="в`ыслать" pos="Г" gram="пе,св,|дст,пвл,2л,ед," stress="1" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> коридор
+		<ana lemma="корид`ор" pos="С" gram="но,|мр,вн,ед," stress="5" />
+		<ana lemma="корид`ор" pos="С" gram="но,|мр,им,ед," stress="5" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> В
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> конце
+		<ana lemma="кон`ец" pos="С" gram="но,|мр,пр,ед," stress="4" />
+	</w>
+ 	<w> коридора
+		<ana lemma="корид`ор" pos="С" gram="но,|мр,рд,ед," stress="5" />
+	</w>
+ 	<w> была
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,жр,ед," stress="3" />
+	</w>
+ 	<w> отворена
+		<ana lemma="отвор`ить" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,кр,жр,ед," stress="7" />
+	</w>
+ 	<w> дверь
+		<ana lemma="дв`ерь" pos="С" gram="но,|жр,им,ед," stress="2" />
+		<ana_del lemma="дв`ерь" pos="С" gram="но,|жр,вн,ед," stress="2" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> боковую
+		<ana lemma="боков`ой" pos="П" gram="|но,од,жр,вн,ед," stress="5" />
+	</w>
+ 	<w> комнату
+		<ana lemma="к`омната" pos="С" gram="но,|жр,вн,ед," stress="1" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Лакей
+		<ana lemma="лак`ей" pos="С" gram="од,|мр,им,ед," stress="3" />
+	</w>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> извозчиком
+		<ana lemma="изв`озчик" pos="С" gram="од,|мр,тв,ед," stress="3" />
+	</w>
+ 	<w> перетаскивали
+		<ana lemma="перет`аскивать" pos="Г" gram="пе,нс,|дст,прш,мн," stress="5" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> нее
+		<ana lemma="он`а" pos="МС" gram="|3л,жр,вн,ед," stress="2" />
+		<ana_del lemma="нея" pos="С" gram="дфст,лок,но,|жр,дт,ед," stress="255" />
+		<ana_del lemma="нея" pos="С" gram="дфст,лок,но,|жр,пр,ед," stress="255" />
+		<ana_del lemma="он`а" pos="МС" gram="|3л,жр,рд,ед," stress="2" />
+	</w>
+ 	<w> чемоданы
+		<ana lemma="чемод`ан" pos="С" gram="но,|мр,им,мн," stress="5" />
+		<ana_del lemma="чемод`ан" pos="С" gram="но,|мр,вн,мн," stress="5" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Послушай
+		<ana lemma="посл`ушать" pos="Г" gram="пе,св,|дст,пвл,2л,ед," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> братец
+		<ana lemma="бр`атец" pos="С" gram="од,|мр,им,ед," stress="2" />
+	</w>
+ 	<pun> , </pun>
+ 	<pun> - </pun>
+ 	<w> спросил
+		<ana lemma="спрос`ить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="5" />
+	</w>
+ 	<w> у
+		<ana lemma="`у" pos="ПРЕДЛ" gram="|" stress="0" />
+		<ana_del lemma="у" pos="МЕЖД" gram="|" stress="255" />
+	</w>
+ 	<w> него
+		<ana lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="3" />
+		<ana_del lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana_del lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="3" />
+	</w>
+ 	<w> штабс-капитан
+		<ana lemma="штабс-капит`ан" pos="С" gram="од,|мр,им,ед," stress="11" />
+	</w>
+ 	<pun> , </pun>
+ 	<pun> - </pun>
+ 	<w> чья
+		<ana lemma="ч`ей" pos="МС-П" gram="|но,од,жр,им,ед," stress="2" />
+	</w>
+ 	<w> эта
+		<ana lemma="`этот" pos="МС-П" gram="|но,од,жр,им,ед," stress="0" />
+	</w>
+ 	<w> чудесная
+		<ana lemma="чуд`есный" pos="П" gram="кач,|но,од,жр,им,ед," stress="3" />
+	</w>
+ 	<w> коляска
+		<ana lemma="кол`яска" pos="С" gram="но,|жр,им,ед," stress="3" />
+	</w>
+ 	<pun> ? </pun>
+ 	<pun> .. </pun>
+ 	<w> а
+		<ana lemma="`а" pos="МЕЖД" gram="|" stress="0" />
+		<ana lemma="`а" pos="ЧАСТ" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="СОЮЗ" gram="|" stress="0" />
+	</w>
+ 	<pun> ? </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> Прекрасная
+		<ana lemma="прекр`асный" pos="П" gram="кач,|но,од,жр,им,ед," stress="5" />
+	</w>
+ 	<w> коляска
+		<ana lemma="кол`яска" pos="С" gram="но,|жр,им,ед," stress="3" />
+	</w>
+ 	<pun> ! </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<pun> - </pun>
+ 	<w> Лакей
+		<ana lemma="лак`ей" pos="С" gram="од,|мр,им,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> оборачиваясь
+		<ana lemma="обор`ачиваться" pos="ДЕЕПРИЧАСТИЕ" gram="нп,нс,|дст,нст," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> бормотал
+		<ana lemma="бормот`ать" pos="Г" gram="пе,нс,|дст,прш,мр,ед," stress="6" />
+	</w>
+ 	<w> что-то
+		<ana lemma="чт`о-то" pos="Н" gram="|" stress="2" />
+		<ana lemma="что-то" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что-то" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> про
+		<ana lemma="пр`о" pos="ПРЕДЛ" gram="|" stress="2" />
+	</w>
+ 	<w> себя
+		<ana lemma="себ`я" pos="МС" gram="|вн," stress="3" />
+		<ana_del lemma="себ`я" pos="МС" gram="|рд," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> развязывая
+		<ana lemma="разв`язывать" pos="ДЕЕПРИЧАСТИЕ" gram="пе,нс,|дст,нст," stress="4" />
+	</w>
+ 	<w> чемодан
+		<ana lemma="чемод`ан" pos="С" gram="но,|мр,вн,ед," stress="5" />
+		<ana lemma="чемод`ан" pos="С" gram="но,|мр,им,ед," stress="5" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Максим
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana_del lemma="м`аксима" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,вн,ед," stress="4" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> Максимыч
+		<ana lemma="максимыч?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<w> рассердился
+		<ana lemma="рассерд`иться" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="7" />
+	</w>
+ 	<pun> ; </pun>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> тронул
+		<ana lemma="тр`онуть" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="2" />
+	</w>
+ 	<w> неучтивца
+		<ana lemma="неучтивец?" pos="С" gram="|мр,вн,ед," stress="255" />
+		<ana lemma="неучтивец?" pos="С" gram="|мр,рд,ед," stress="255" />
+	</w>
+ 	<w> по
+		<ana lemma="п`о" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> плечу
+		<ana lemma="плеч`о" pos="С" gram="но,|ср,дт,ед," stress="4" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> сказал
+		<ana lemma="сказ`ать" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<pun> : </pun>
+ 	<pun> - </pun>
+ 	<w> Я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> тебе
+		<ana lemma="т`ы" pos="МС" gram="|2л,дт,ед," stress="3" />
+		<ana lemma="т`ы" pos="МС" gram="|2л,пр,ед," stress="3" />
+	</w>
+ 	<w> говорю
+		<ana lemma="говор`ить" pos="Г" gram="пе,нс,|дст,1л,нст,ед," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> любезный
+		<ana lemma="люб`езный" pos="П" gram="кач,|но,мр,вн,ед," stress="3" />
+		<ana lemma="люб`езный" pos="П" gram="кач,|но,од,мр,им,ед," stress="3" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Чья
+		<ana lemma="ч`ей" pos="МС-П" gram="|но,од,жр,им,ед," stress="2" />
+	</w>
+ 	<w> коляска
+		<ana lemma="кол`яска" pos="С" gram="но,|жр,им,ед," stress="3" />
+	</w>
+ 	<pun> ? </pun>
+ 	<pun> ... </pun>
+ 	<w> моего
+		<ana lemma="м`ой" pos="МС-П" gram="|но,од,мр,рд,ед," stress="4" />
+		<ana lemma="м`ой" pos="МС-П" gram="|од,мр,вн,ед," stress="4" />
+		<ana_del lemma="м`ой" pos="МС-П" gram="|но,од,ср,рд,ед," stress="4" />
+	</w>
+ 	<w> господина
+		<ana lemma="господ`ин" pos="С" gram="од,|мр,вн,ед," stress="6" />
+		<ana lemma="господ`ин" pos="С" gram="од,|мр,рд,ед," stress="6" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> А
+		<ana lemma="`а" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="МЕЖД" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> кто
+		<ana lemma="кт`о" pos="МС" gram="|мр,им,ед," stress="2" />
+	</w>
+ 	<w> твой
+		<ana lemma="тв`ой" pos="МС-П" gram="|но,од,мр,им,ед," stress="2" />
+		<ana_del lemma="тв`ой" pos="МС-П" gram="|но,мр,вн,ед," stress="2" />
+	</w>
+ 	<w> господин
+		<ana lemma="господ`ин" pos="С" gram="од,|мр,им,ед," stress="6" />
+	</w>
+ 	<pun> ? </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Печорин
+		<ana lemma="печорин?" pos="С" gram="|мр,вн,ед," stress="255" />
+		<ana lemma="печорин?" pos="С" gram="|мр,им,ед," stress="255" />
+		<ana lemma="печорин?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> ты
+		<ana lemma="т`ы" pos="МС" gram="|2л,им,ед," stress="1" />
+	</w>
+ 	<pun> ? </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> ты
+		<ana lemma="т`ы" pos="МС" gram="|2л,им,ед," stress="1" />
+	</w>
+ 	<pun> ? </pun>
+</s>
+<s>
+ 	<w> Печорин
+		<ana lemma="печорин?" pos="С" gram="|мр,вн,ед," stress="255" />
+		<ana lemma="печорин?" pos="С" gram="|мр,им,ед," stress="255" />
+		<ana lemma="печорин?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> ? </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> Ах
+		<ana lemma="`ах" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> Боже
+		<ana lemma="б`ог" pos="С" gram="од,|мр,зв,ед," stress="1" />
+	</w>
+ 	<w> мой
+		<ana lemma="м`ой" pos="МС-П" gram="|но,мр,вн,ед," stress="1" />
+		<ana lemma="м`ой" pos="МС-П" gram="|но,од,мр,им,ед," stress="1" />
+		<ana lemma="м`ыть" pos="Г" gram="пе,нс,|дст,пвл,2л,ед," stress="1" />
+	</w>
+ 	<pun> ! </pun>
+ 	<pun> .. </pun>
+ 	<w> да
+		<ana lemma="д`а" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="д`а" pos="ЧАСТ" gram="|" stress="1" />
+		<ana_del lemma="да" pos="ПРЕДК" gram="|0," stress="255" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> служил
+		<ana lemma="служ`ить" pos="Г" gram="пе,нс,|дст,прш,мр,ед," stress="4" />
+		<ana_del lemma="служ`илый" pos="П" gram="|но,од,кр,мр,ед," stress="4" />
+	</w>
+ 	<w> ли
+		<ana lemma="л`и" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="л`и" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> на
+		<ana lemma="н`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> Кавказе
+		<ana lemma="кавказ" pos="С" gram="дфст,лок,но,|мр,пр,ед," stress="255" />
+	</w>
+ 	<pun> ? </pun>
+ 	<pun> .. </pun>
+ 	<pun> - </pun>
+ 	<w> воскликнул
+		<ana lemma="воскликнуть" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="255" />
+	</w>
+ 	<w> Максим
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana_del lemma="м`аксима" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,вн,ед," stress="4" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> Максимыч
+		<ana lemma="максимыч?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> дернув
+		<ana lemma="д`ернуть" pos="ДЕЕПРИЧАСТИЕ" gram="пе,св,|дст,прш," stress="1" />
+	</w>
+ 	<w> меня
+		<ana lemma="я" pos="МС" gram="|1л,вн,ед," stress="255" />
+		<ana lemma="я" pos="МС" gram="|1л,рд,ед," stress="255" />
+		<ana_del lemma="мень" pos="С" gram="фам,од,|мр,вн,ед," stress="255" />
+		<ana_del lemma="мень" pos="С" gram="фам,од,|мр,рд,ед," stress="255" />
+	</w>
+ 	<w> за
+		<ana lemma="з`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> рукав
+		<ana lemma="рук`ав" pos="С" gram="но,|мр,вн,ед," stress="3" />
+		<ana_del lemma="рук`ав" pos="С" gram="но,|мр,им,ед," stress="3" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> У
+		<ana lemma="`у" pos="ПРЕДЛ" gram="|" stress="0" />
+		<ana_del lemma="у" pos="МЕЖД" gram="|" stress="255" />
+	</w>
+ 	<w> него
+		<ana lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="3" />
+		<ana_del lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana_del lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="3" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> глазах
+		<ana lemma="гл`аз" pos="С" gram="но,|мр,пр,мн," stress="4" />
+	</w>
+ 	<w> сверкала
+		<ana lemma="сверк`ать" pos="Г" gram="нп,нс,|дст,прш,жр,ед," stress="5" />
+	</w>
+ 	<w> радость
+		<ana lemma="р`адость" pos="С" gram="но,|жр,им,ед," stress="1" />
+		<ana_del lemma="р`адость" pos="С" gram="но,|жр,вн,ед," stress="1" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Служил
+		<ana lemma="служ`ить" pos="Г" gram="пе,нс,|дст,прш,мр,ед," stress="4" />
+		<ana_del lemma="служ`илый" pos="П" gram="|но,од,кр,мр,ед," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> кажется
+		<ana lemma="кажется" pos="ВВОДН" gram="|" stress="255" />
+		<ana lemma="каз`аться" pos="Г" gram="нп,нс,|дст,3л,нст,ед," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<pun> - </pun>
+ 	<w> да
+		<ana lemma="д`а" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="д`а" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="да" pos="ПРЕДК" gram="|0," stress="255" />
+	</w>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> у
+		<ana lemma="`у" pos="ПРЕДЛ" gram="|" stress="0" />
+		<ana_del lemma="у" pos="МЕЖД" gram="|" stress="255" />
+	</w>
+ 	<w> них
+		<ana lemma="он`и" pos="МС" gram="|3л,рд,мн," stress="1" />
+		<ana_del lemma="он`и" pos="МС" gram="|3л,вн,мн," stress="1" />
+		<ana_del lemma="он`и" pos="МС" gram="|3л,пр,мн," stress="1" />
+	</w>
+ 	<w> недавно
+		<ana lemma="нед`авно" pos="Н" gram="|" stress="3" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Ну
+		<ana lemma="ну" pos="ЧАСТ" gram="|" stress="255" />
+		<ana_del lemma="н`у" pos="МЕЖД" gram="|" stress="1" />
+	</w>
+ 	<w> так
+		<ana lemma="т`ак" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="т`ак" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="так" pos="Н" gram="|указат," stress="255" />
+	</w>
+ 	<pun> ! </pun>
+ 	<pun> .. </pun>
+ 	<w> так
+		<ana lemma="т`ак" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="т`ак" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="так" pos="Н" gram="|указат," stress="255" />
+	</w>
+ 	<pun> ! </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> Григорий
+		<ana lemma="Григорий" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+	</w>
+ 	<w> Александрович
+		<ana lemma="Алекс`андрович" pos="С" gram="од,|отч,мр,им,ед," stress="5" />
+		<ana_del lemma="Алекс`андр" pos="С" gram="од,|отч,мр,им,ед," stress="5" />
+	</w>
+ 	<pun> ? </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> Так
+		<ana lemma="т`ак" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="т`ак" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="так" pos="Н" gram="|указат," stress="255" />
+	</w>
+ 	<w> ведь
+		<ana lemma="в`едь" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="ведь" pos="ЧАСТ" gram="|" stress="255" />
+	</w>
+ 	<w> его
+		<ana lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="2" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="2" />
+		<ana_del lemma="его" pos="МС-П" gram="|0,но,од,ср,жр,мр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<w> зовут
+		<ana lemma="зв`ать" pos="Г" gram="пе,нс,|дст,3л,нст,мн," stress="3" />
+	</w>
+ 	<pun> ? </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> Мы
+		<ana lemma="м`ы" pos="МС" gram="|1л,им,мн," stress="1" />
+	</w>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> твоим
+		<ana lemma="тв`ой" pos="МС-П" gram="|но,од,мр,тв,ед," stress="3" />
+		<ana_del lemma="тв`ой" pos="МС-П" gram="|но,од,дт,мн," stress="3" />
+		<ana_del lemma="тв`ой" pos="МС-П" gram="|но,од,ср,тв,ед," stress="3" />
+	</w>
+ 	<w> барином
+		<ana lemma="б`арин" pos="С" gram="од,|мр,тв,ед," stress="1" />
+	</w>
+ 	<w> были
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,мн," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,вн,мн," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,дт,ед," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,им,мн," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,пр,ед," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,рд,ед," stress="1" />
+	</w>
+ 	<w> приятели
+		<ana lemma="при`ятель" pos="С" gram="од,|мр,им,мн," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<pun> - </pun>
+ 	<w> прибавил
+		<ana lemma="приб`авить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> ударив
+		<ana lemma="уд`арить" pos="ДЕЕПРИЧАСТИЕ" gram="пе,св,|дст,прш," stress="2" />
+	</w>
+ 	<w> дружески
+		<ana lemma="др`ужески" pos="Н" gram="|" stress="2" />
+		<ana_del lemma="др`ужеский" pos="П" gram="|но,од,кр,мн," stress="2" />
+	</w>
+ 	<w> по
+		<ana lemma="п`о" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> плечу
+		<ana lemma="плеч`о" pos="С" gram="но,|ср,дт,ед," stress="4" />
+	</w>
+ 	<w> лакея
+		<ana lemma="лак`ей" pos="С" gram="од,|мр,вн,ед," stress="3" />
+		<ana lemma="лак`ей" pos="С" gram="од,|мр,рд,ед," stress="3" />
+	</w>
+ 	<ob> , так что
+		<ana lemma=",_так_что" pos="ПОДЧ_СОЮЗ" gram="" stress="255"/>
+		<singles>
+		 	<pun> , </pun>
+		 	<w> так
+				<ana_del lemma="т`ак" pos="СОЮЗ" gram="|" stress="1" />
+				<ana_del lemma="т`ак" pos="ЧАСТ" gram="|" stress="1" />
+				<ana_del lemma="так" pos="Н" gram="|указат," stress="255" />
+			</w>
+		 	<w> что
+				<ana_del lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+				<ana_del lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+				<ana_del lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+			</w>
+		</singles>
+	</ob>
+ 	<w> заставил
+		<ana lemma="заст`авить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> его
+		<ana lemma="его" pos="МС-П" gram="|0,но,од,ср,жр,мр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="2" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="2" />
+	</w>
+ 	<w> пошатнуться
+		<ana lemma="пошатн`уться" pos="ИНФИНИТИВ" gram="нп,св,|дст," stress="6" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Позвольте
+		<ana lemma="позв`олить" pos="Г" gram="пе,св,|дст,пвл,2л,мн," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> сударь
+		<ana lemma="с`ударь" pos="С" gram="од,|мр,им,ед," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> вы
+		<ana lemma="в`ы" pos="МС" gram="|2л,им,мн," stress="1" />
+	</w>
+ 	<w> мне
+		<ana lemma="я" pos="МС" gram="|1л,дт,ед," stress="255" />
+		<ana lemma="я" pos="МС" gram="|1л,пр,ед," stress="255" />
+	</w>
+ 	<w> мешаете
+		<ana lemma="меш`ать" pos="Г" gram="нп,нс,|дст,2л,нст,мн," stress="3" />
+		<ana lemma="меш`ать" pos="Г" gram="пе,нс,|дст,2л,нст,мн," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<pun> - </pun>
+ 	<w> сказал
+		<ana lemma="сказ`ать" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> тот
+		<ana lemma="т`от" pos="МС-П" gram="|но,мр,вн,ед," stress="1" />
+		<ana lemma="т`от" pos="МС-П" gram="|но,од,мр,им,ед," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> нахмурившись
+		<ana lemma="нахм`уриться" pos="ДЕЕПРИЧАСТИЕ" gram="нп,св,|дст,прш," stress="4" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Экой
+		<ana lemma="`экий" pos="МС-П" gram="|но,од,жр,дт,ед," stress="0" />
+		<ana lemma="`экий" pos="МС-П" gram="|но,од,жр,пр,ед," stress="0" />
+		<ana lemma="`экий" pos="МС-П" gram="|но,од,жр,рд,ед," stress="0" />
+		<ana lemma="`экий" pos="МС-П" gram="|но,од,жр,тв,ед," stress="0" />
+	</w>
+ 	<w> ты
+		<ana lemma="т`ы" pos="МС" gram="|2л,им,ед," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> братец
+		<ana lemma="бр`атец" pos="С" gram="од,|мр,им,ед," stress="2" />
+	</w>
+ 	<pun> ! </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> Да
+		<ana lemma="д`а" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="д`а" pos="ЧАСТ" gram="|" stress="1" />
+		<ana_del lemma="да" pos="ПРЕДК" gram="|0," stress="255" />
+	</w>
+ 	<w> знаешь
+		<ana lemma="зн`ать" pos="Г" gram="пе,нс,|дст,2л,нст,ед," stress="2" />
+	</w>
+ 	<w> ли
+		<ana lemma="л`и" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="л`и" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<pun> ? </pun>
+ 	<w> мы
+		<ana lemma="м`ы" pos="МС" gram="|1л,им,мн," stress="1" />
+	</w>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> твоим
+		<ana lemma="тв`ой" pos="МС-П" gram="|но,од,мр,тв,ед," stress="3" />
+		<ana_del lemma="тв`ой" pos="МС-П" gram="|но,од,дт,мн," stress="3" />
+		<ana_del lemma="тв`ой" pos="МС-П" gram="|но,од,ср,тв,ед," stress="3" />
+	</w>
+ 	<w> барином
+		<ana lemma="б`арин" pos="С" gram="од,|мр,тв,ед," stress="1" />
+	</w>
+ 	<w> были
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,мн," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,вн,мн," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,дт,ед," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,им,мн," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,пр,ед," stress="1" />
+		<ana_del lemma="б`ыль" pos="С" gram="но,|жр,рд,ед," stress="1" />
+	</w>
+ 	<w> друзья
+		<ana lemma="др`уг" pos="С" gram="од,|мр,им,мн," stress="5" />
+	</w>
+ 	<w> закадычные
+		<ana lemma="закад`ычный" pos="П" gram="кач,|но,вн,мн," stress="5" />
+		<ana lemma="закад`ычный" pos="П" gram="кач,|но,од,им,мн," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> жили
+		<ana lemma="ж`ить" pos="Г" gram="нп,нс,|дст,прш,мн," stress="1" />
+	</w>
+ 	<w> вместе
+		<ana lemma="вм`есте" pos="Н" gram="|" stress="2" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<w> Да
+		<ana lemma="д`а" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="д`а" pos="ЧАСТ" gram="|" stress="1" />
+		<ana_del lemma="да" pos="ПРЕДК" gram="|0," stress="255" />
+	</w>
+ 	<w> где
+		<ana lemma="гд`е" pos="Н" gram="|вопр," stress="2" />
+	</w>
+ 	<w> же
+		<ana lemma="ж`е" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="ж`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> сам
+		<ana lemma="с`ам" pos="МС-П" gram="|но,мр,вн,ед," stress="1" />
+		<ana lemma="с`ам" pos="МС-П" gram="|но,од,мр,им,ед," stress="1" />
+	</w>
+ 	<w> остался
+		<ana lemma="ост`аться" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="3" />
+	</w>
+ 	<pun> ? </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> Слуга
+		<ana lemma="слуг`а" pos="С" gram="од,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> объявил
+		<ana lemma="объяв`ить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> Печорин
+		<ana lemma="печорин?" pos="С" gram="|мр,им,ед," stress="255" />
+		<ana lemma="печорин?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana_del lemma="печорин?" pos="С" gram="|мр,вн,ед," stress="255" />
+	</w>
+ 	<w> остался
+		<ana lemma="ост`аться" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="3" />
+	</w>
+ 	<w> ужинать
+		<ana lemma="`ужинать" pos="ИНФИНИТИВ" gram="нп,нс,|дст," stress="0" />
+		<ana lemma="ужин`ать" pos="ИНФИНИТИВ" gram="пе,нс,|дст," stress="4" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> ночевать
+		<ana lemma="ночев`ать" pos="ИНФИНИТИВ" gram="нп,нс,|дст," stress="5" />
+	</w>
+ 	<w> у
+		<ana lemma="`у" pos="ПРЕДЛ" gram="|" stress="0" />
+		<ana_del lemma="у" pos="МЕЖД" gram="|" stress="255" />
+	</w>
+ 	<w> полковника
+		<ana lemma="полк`овник" pos="С" gram="од,|мр,рд,ед," stress="4" />
+		<ana_del lemma="полк`овник" pos="С" gram="од,|мр,вн,ед," stress="4" />
+	</w>
+ 	<w> Н
+		<ana lemma="н?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Да
+		<ana lemma="д`а" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="д`а" pos="ЧАСТ" gram="|" stress="1" />
+		<ana_del lemma="да" pos="ПРЕДК" gram="|0," stress="255" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> зайдет
+		<ana lemma="зайт`и" pos="Г" gram="нп,св,|дст,3л,буд,ед," stress="4" />
+	</w>
+ 	<w> ли
+		<ana lemma="л`и" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="л`и" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> вечером
+		<ana lemma="в`ечер" pos="С" gram="но,|мр,тв,ед," stress="1" />
+		<ana lemma="в`ечером" pos="Н" gram="|" stress="1" />
+	</w>
+ 	<w> сюда
+		<ana lemma="сюд`а" pos="Н" gram="|" stress="3" />
+	</w>
+ 	<pun> ? </pun>
+ 	<pun> - </pun>
+ 	<w> сказал
+		<ana lemma="сказ`ать" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> Максим
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana_del lemma="м`аксима" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,вн,ед," stress="4" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> Максимыч
+		<ana lemma="максимыч?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<pun> - </pun>
+ 	<w> или
+		<ana lemma="`или" pos="СОЮЗ" gram="|" stress="0" />
+		<ana lemma="`или" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> ты
+		<ana lemma="т`ы" pos="МС" gram="|2л,им,ед," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> любезный
+		<ana lemma="люб`езный" pos="П" gram="кач,|но,мр,вн,ед," stress="3" />
+		<ana lemma="люб`езный" pos="П" gram="кач,|но,од,мр,им,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> пойдешь
+		<ana lemma="пойт`и" pos="Г" gram="нп,св,|дст,2л,буд,ед," stress="4" />
+	</w>
+ 	<w> ли
+		<ana lemma="л`и" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="л`и" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> к
+		<ana lemma="к" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> нему
+		<ana lemma="он" pos="МС" gram="|3л,мр,дт,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,дт,ед," stress="3" />
+	</w>
+ 	<w> за
+		<ana lemma="з`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> чем-нибудь
+		<ana lemma="чт`о-нибудь" pos="МС" gram="|ср,тв,ед," stress="1" />
+		<ana_del lemma="чт`о-нибудь" pos="МС" gram="|ср,пр,ед," stress="1" />
+	</w>
+ 	<pun> ? </pun>
+</s>
+<s>
+ 	<pun> .. </pun>
+ 	<w> Коли
+		<ana lemma="Коля" pos="С" gram="од,|имя,мр,им,мн," stress="255" />
+		<ana lemma="Коля" pos="С" gram="од,|имя,мр,рд,ед," stress="255" />
+		<ana lemma="к`оли" pos="СОЮЗ" gram="|" stress="1" />
+		<ana_del lemma="кол`оть" pos="Г" gram="пе,нс,|дст,пвл,2л,ед," stress="3" />
+	</w>
+ 	<w> пойдешь
+		<ana lemma="пойт`и" pos="Г" gram="нп,св,|дст,2л,буд,ед," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> так
+		<ana lemma="т`ак" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="т`ак" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="так" pos="Н" gram="|указат," stress="255" />
+	</w>
+ 	<w> скажи
+		<ana lemma="сказ`ать" pos="Г" gram="пе,св,|дст,пвл,2л,ед," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> здесь
+		<ana lemma="зд`есь" pos="Н" gram="|" stress="2" />
+		<ana lemma="здесь" pos="ПРЕДК" gram="|" stress="255" />
+	</w>
+ 	<w> Максим
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana_del lemma="м`аксима" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,вн,ед," stress="4" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> Максимыч
+		<ana lemma="максимыч?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> ; </pun>
+ 	<ob> так и
+		<ana lemma="так_и" pos="СОЮЗ" gram="" stress="255"/>
+		<singles>
+		 	<w> так
+				<ana_del lemma="т`ак" pos="СОЮЗ" gram="|" stress="1" />
+				<ana_del lemma="т`ак" pos="ЧАСТ" gram="|" stress="1" />
+				<ana_del lemma="так" pos="Н" gram="|указат," stress="255" />
+			</w>
+		 	<w> и
+				<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+				<ana_del lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+			</w>
+		</singles>
+	</ob>
+ 	<w> скажи
+		<ana lemma="сказ`ать" pos="Г" gram="пе,св,|дст,пвл,2л,ед," stress="4" />
+	</w>
+ 	<pun> ... </pun>
+ 	<w> уж
+		<ana lemma="`уж" pos="Н" gram="|" stress="0" />
+		<ana lemma="`уж" pos="С" gram="од,|мр,им,ед," stress="0" />
+		<ana lemma="`уж" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> знает
+		<ana lemma="зн`ать" pos="Г" gram="пе,нс,|дст,3л,нст,ед," stress="2" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<w> Я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> тебе
+		<ana lemma="т`ы" pos="МС" gram="|2л,дт,ед," stress="3" />
+		<ana lemma="т`ы" pos="МС" gram="|2л,пр,ед," stress="3" />
+	</w>
+ 	<w> дам
+		<ana lemma="д`ать" pos="Г" gram="пе,св,|дст,1л,буд,ед," stress="1" />
+		<ana_del lemma="д`ама" pos="С" gram="од,|жр,вн,мн," stress="1" />
+		<ana_del lemma="д`ама" pos="С" gram="од,|жр,рд,мн," stress="1" />
+	</w>
+ 	<w> восьмигривенный
+		<ana lemma="восьмигривенный?" pos="П" gram="|но,мр,вн,ед," stress="255" />
+		<ana lemma="восьмигривенный?" pos="П" gram="|но,од,мр,им,ед," stress="255" />
+	</w>
+ 	<w> на
+		<ana lemma="н`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> водку
+		<ana lemma="в`одка" pos="С" gram="но,|жр,вн,ед," stress="1" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<w> Лакей
+		<ana lemma="лак`ей" pos="С" gram="од,|мр,им,ед," stress="3" />
+	</w>
+ 	<w> сделал
+		<ana lemma="сд`елать" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="2" />
+	</w>
+ 	<w> презрительную
+		<ana lemma="презр`ительный" pos="П" gram="кач,|но,од,жр,вн,ед," stress="5" />
+	</w>
+ 	<w> мину
+		<ana lemma="м`ина" pos="С" gram="но,|жр,вн,ед," stress="1" />
+		<ana_del lemma="мин`уть" pos="Г" gram="пе,св,|дст,1л,буд,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> слыша
+		<ana lemma="сл`ышать" pos="ДЕЕПРИЧАСТИЕ" gram="пе,нс,|дст,нст," stress="2" />
+	</w>
+ 	<w> такое
+		<ana lemma="так`ой" pos="МС-П" gram="|но,од,ср,вн,ед," stress="3" />
+		<ana lemma="так`ой" pos="МС-П" gram="|но,од,ср,им,ед," stress="3" />
+	</w>
+ 	<w> скромное
+		<ana lemma="скр`омный" pos="П" gram="кач,|но,од,ср,вн,ед," stress="3" />
+		<ana lemma="скр`омный" pos="П" gram="кач,|но,од,ср,им,ед," stress="3" />
+	</w>
+ 	<w> обещание
+		<ana lemma="обещ`ание" pos="С" gram="но,|ср,вн,ед," stress="4" />
+		<ana lemma="обещ`ание" pos="С" gram="но,|ср,им,ед," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> однако
+		<ana lemma="одн`ако" pos="СОЮЗ" gram="|" stress="3" />
+		<ana_del lemma="одн`ако" pos="ВВОДН" gram="|" stress="3" />
+		<ana_del lemma="одн`ако" pos="МЕЖД" gram="|" stress="3" />
+	</w>
+ 	<w> уверил
+		<ana lemma="ув`ерить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="2" />
+	</w>
+ 	<w> Максима
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,вн,ед," stress="255" />
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,рд,ед," stress="255" />
+		<ana lemma="м`аксима" pos="С" gram="но,|жр,им,ед," stress="1" />
+		<ana lemma="макс`им" pos="С" gram="но,|мр,рд,ед," stress="4" />
+	</w>
+ 	<w> Максимыча
+		<ana lemma="максимыча?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana_del lemma="максимыкать?" pos="ДЕЕПРИЧАСТИЕ" gram="|дст,нст," stress="255" />
+		<ana_del lemma="максимыч?" pos="С" gram="|мр,рд,ед," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> исполнит
+		<ana lemma="исп`олнить" pos="Г" gram="пе,св,|дст,3л,буд,ед," stress="3" />
+	</w>
+ 	<w> его
+		<ana lemma="его" pos="МС-П" gram="|0,но,од,ср,жр,мр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="2" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="2" />
+	</w>
+ 	<w> поручение
+		<ana lemma="поруч`ение" pos="С" gram="но,|ср,вн,ед," stress="5" />
+		<ana lemma="поруч`ение" pos="С" gram="но,|ср,им,ед," stress="5" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Ведь
+		<ana lemma="в`едь" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="ведь" pos="ЧАСТ" gram="|" stress="255" />
+	</w>
+ 	<w> сейчас
+		<ana lemma="сейч`ас" pos="Н" gram="|" stress="4" />
+	</w>
+ 	<w> прибежит
+		<ana lemma="прибеж`ать" pos="Г" gram="нп,св,|дст,3л,буд,ед," stress="6" />
+	</w>
+ 	<pun> ! </pun>
+ 	<pun> .. </pun>
+ 	<pun> - </pun>
+ 	<w> сказал
+		<ana lemma="сказ`ать" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> мне
+		<ana lemma="я" pos="МС" gram="|1л,дт,ед," stress="255" />
+		<ana lemma="я" pos="МС" gram="|1л,пр,ед," stress="255" />
+	</w>
+ 	<w> Максим
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana_del lemma="м`аксима" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,вн,ед," stress="4" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> Максимыч
+		<ana lemma="максимыч?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> торжествующим
+		<ana lemma="торж`ествовать" pos="ПРИЧАСТИЕ" gram="нп,нс,|дст,но,од,нст,мр,тв,ед," stress="4" />
+		<ana_del lemma="торж`ествовать" pos="ПРИЧАСТИЕ" gram="нп,нс,|дст,но,од,нст,дт,мн," stress="4" />
+		<ana_del lemma="торж`ествовать" pos="ПРИЧАСТИЕ" gram="нп,нс,|дст,но,од,нст,ср,тв,ед," stress="4" />
+	</w>
+ 	<w> видом
+		<ana lemma="в`ид" pos="С" gram="но,|мр,тв,ед," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<pun> - </pun>
+ 	<w> пойду
+		<ana lemma="пойт`и" pos="Г" gram="нп,св,|дст,1л,буд,ед," stress="4" />
+	</w>
+ 	<w> за
+		<ana lemma="з`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> ворота
+		<ana lemma="вор`ота" pos="С" gram="но,|вн,мн," stress="3" />
+		<ana_del lemma="в`орот" pos="С" gram="но,|мр,рд,ед," stress="1" />
+		<ana_del lemma="вор`ота" pos="С" gram="но,|им,мн," stress="3" />
+	</w>
+ 	<w> его
+		<ana lemma="его" pos="МС-П" gram="|0,но,од,ср,жр,мр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="2" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="2" />
+	</w>
+ 	<w> дожидаться
+		<ana lemma="дожид`аться" pos="ИНФИНИТИВ" gram="нп,нс,|дст," stress="5" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<w> Эх
+		<ana lemma="`эх" pos="МЕЖД" gram="|" stress="0" />
+		<ana lemma="`эхо" pos="С" gram="но,|ср,рд,мн," stress="0" />
+	</w>
+ 	<pun> ! </pun>
+ 	<w> жалко
+		<ana lemma="ж`алкий" pos="П" gram="кач,|но,од,кр,ср,ед," stress="1" />
+		<ana lemma="ж`алко" pos="Н" gram="|" stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> знаком
+		<ana lemma="знак`омый" pos="П" gram="кач,|но,од,кр,мр,ед," stress="4" />
+		<ana_del lemma="зн`ак" pos="С" gram="но,|мр,тв,ед," stress="2" />
+	</w>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> Н
+		<ana lemma="н?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<w> Максим
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana_del lemma="м`аксима" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,вн,ед," stress="4" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> Максимыч
+		<ana lemma="максимыч?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<w> сел
+		<ana lemma="с`есть" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="1" />
+		<ana_del lemma="сел`о" pos="С" gram="но,|ср,рд,мн," stress="1" />
+	</w>
+ 	<w> за
+		<ana lemma="з`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> воротами
+		<ana lemma="в`орот" pos="С" gram="но,|мр,тв,мн," stress="1" />
+		<ana lemma="вор`ота" pos="С" gram="но,|тв,мн," stress="3" />
+	</w>
+ 	<w> на
+		<ana lemma="н`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> скамейку
+		<ana lemma="скам`ейка" pos="С" gram="но,|жр,вн,ед," stress="4" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> а
+		<ana lemma="`а" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="МЕЖД" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> ушел
+		<ana lemma="уйт`и" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="2" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> свою
+		<ana lemma="св`ой" pos="МС-П" gram="|но,од,жр,вн,ед," stress="3" />
+	</w>
+ 	<w> комнату
+		<ana lemma="к`омната" pos="С" gram="но,|жр,вн,ед," stress="1" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Признаться
+		<ana lemma="призн`аться" pos="ИНФИНИТИВ" gram="нп,св,|дст," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> также
+		<ana lemma="т`акже" pos="СОЮЗ" gram="|" stress="1" />
+	</w>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> некоторым
+		<ana lemma="н`екоторый" pos="МС-П" gram="|но,од,ср,тв,ед," stress="1" />
+		<ana_del lemma="н`екоторые" pos="МС" gram="|дт,мн," stress="1" />
+		<ana_del lemma="н`екоторый" pos="МС-П" gram="|но,од,дт,мн," stress="1" />
+		<ana_del lemma="н`екоторый" pos="МС-П" gram="|но,од,мр,тв,ед," stress="1" />
+	</w>
+ 	<w> нетерпением
+		<ana lemma="нетерп`ение" pos="С" gram="но,|ср,тв,ед," stress="6" />
+	</w>
+ 	<w> ждал
+		<ana lemma="жд`ать" pos="Г" gram="пе,нс,|дст,прш,мр,ед," stress="2" />
+	</w>
+ 	<w> появления
+		<ana lemma="появл`ение" pos="С" gram="но,|ср,вн,мн," stress="5" />
+		<ana lemma="появл`ение" pos="С" gram="но,|ср,им,мн," stress="5" />
+		<ana lemma="появл`ение" pos="С" gram="но,|ср,рд,ед," stress="5" />
+	</w>
+ 	<w> этого
+		<ana lemma="`этот" pos="МС-П" gram="|но,од,мр,рд,ед," stress="0" />
+		<ana lemma="`этот" pos="МС-П" gram="|од,мр,вн,ед," stress="0" />
+		<ana lemma="это" pos="МС" gram="|ср,рд,ед," stress="255" />
+		<ana_del lemma="`этот" pos="МС-П" gram="|но,од,ср,рд,ед," stress="0" />
+	</w>
+ 	<w> Печорина
+		<ana lemma="печорин?" pos="С" gram="|мр,вн,ед," stress="255" />
+		<ana lemma="печорин?" pos="С" gram="|мр,рд,ед," stress="255" />
+		<ana lemma="печорина?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana_del lemma="печорин?" pos="С" gram="|жр,им,ед," stress="255" />
+	</w>
+ 	<pun> ; </pun>
+ 	<w> по
+		<ana lemma="п`о" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> рассказу
+		<ana lemma="расск`аз" pos="С" gram="но,|мр,дт,ед," stress="5" />
+	</w>
+ 	<w> штабс-капитана
+		<ana lemma="штабс-капит`ан" pos="С" gram="од,|мр,вн,ед," stress="11" />
+		<ana lemma="штабс-капит`ан" pos="С" gram="од,|мр,рд,ед," stress="11" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> составил
+		<ana lemma="сост`авить" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> себе
+		<ana lemma="себ`е" pos="ЧАСТ" gram="|" stress="3" />
+		<ana lemma="себ`я" pos="МС" gram="|дт," stress="3" />
+		<ana lemma="себ`я" pos="МС" gram="|пр," stress="3" />
+	</w>
+ 	<w> о
+		<ana lemma="о" pos="ПРЕДЛ" gram="|" stress="255" />
+		<ana_del lemma="о" pos="МЕЖД" gram="|" stress="255" />
+	</w>
+ 	<w> нем
+		<ana lemma="он" pos="МС" gram="|3л,мр,пр,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,пр,ед," stress="1" />
+		<ana_del lemma="нем`ой" pos="П" gram="кач,|но,од,кр,мр,ед," stress="1" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> очень
+		<ana lemma="`очень" pos="Н" gram="|" stress="0" />
+	</w>
+ 	<w> выгодное
+		<ana lemma="в`ыгодный" pos="П" gram="кач,|но,од,ср,вн,ед," stress="1" />
+		<ana lemma="в`ыгодный" pos="П" gram="кач,|но,од,ср,им,ед," stress="1" />
+	</w>
+ 	<w> понятие
+		<ana lemma="пон`ятие" pos="С" gram="но,|ср,вн,ед," stress="3" />
+		<ana lemma="пон`ятие" pos="С" gram="но,|ср,им,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> однако
+		<ana lemma="одн`ако" pos="СОЮЗ" gram="|" stress="3" />
+		<ana_del lemma="одн`ако" pos="ВВОДН" gram="|" stress="3" />
+		<ana_del lemma="одн`ако" pos="МЕЖД" gram="|" stress="3" />
+	</w>
+ 	<w> некоторые
+		<ana lemma="н`екоторый" pos="МС-П" gram="|но,од,им,мн," stress="1" />
+		<ana_del lemma="н`екоторые" pos="МС" gram="|вн,мн," stress="1" />
+		<ana_del lemma="н`екоторые" pos="МС" gram="|им,мн," stress="1" />
+		<ana_del lemma="н`екоторый" pos="МС-П" gram="|но,вн,мн," stress="1" />
+	</w>
+ 	<w> черты
+		<ana lemma="черт`а" pos="С" gram="но,|жр,им,мн," stress="4" />
+		<ana_del lemma="черт`а" pos="С" gram="но,|жр,вн,мн," stress="4" />
+		<ana_del lemma="черт`а" pos="С" gram="но,|жр,рд,ед," stress="4" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> его
+		<ana lemma="его" pos="МС-П" gram="|0,но,од,ср,жр,мр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana_del lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana_del lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana_del lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="2" />
+		<ana_del lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="2" />
+	</w>
+ 	<w> характере
+		<ana lemma="хар`актер" pos="С" gram="но,|мр,пр,ед," stress="3" />
+	</w>
+ 	<w> показались
+		<ana lemma="показ`аться" pos="Г" gram="нп,св,|дст,прш,мн," stress="5" />
+	</w>
+ 	<w> мне
+		<ana lemma="я" pos="МС" gram="|1л,дт,ед," stress="255" />
+		<ana lemma="я" pos="МС" gram="|1л,пр,ед," stress="255" />
+	</w>
+ 	<w> замечательными
+		<ana lemma="замеч`ательный" pos="П" gram="кач,|но,од,тв,мн," stress="5" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Через
+		<ana lemma="ч`ерез" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> час
+		<ana lemma="ч`ас" pos="С" gram="но,|мр,вн,ед," stress="1" />
+		<ana_del lemma="ч`ас" pos="С" gram="но,|мр,им,ед," stress="1" />
+	</w>
+ 	<w> инвалид
+		<ana lemma="инвал`ид" pos="С" gram="од,|мр,им,ед," stress="5" />
+	</w>
+ 	<w> принес
+		<ana lemma="принест`и" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="4" />
+	</w>
+ 	<w> кипящий
+		<ana lemma="кип`еть" pos="ПРИЧАСТИЕ" gram="нп,нс,|дст,но,нст,мр,вн,ед," stress="3" />
+		<ana lemma="кип`еть" pos="ПРИЧАСТИЕ" gram="нп,нс,|дст,но,од,нст,мр,им,ед," stress="3" />
+	</w>
+ 	<w> самовар
+		<ana lemma="самов`ар" pos="С" gram="но,|мр,вн,ед," stress="5" />
+		<ana lemma="самов`ар" pos="С" gram="но,|мр,им,ед," stress="5" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> чайник
+		<ana lemma="ч`айник" pos="С" gram="но,|мр,вн,ед," stress="1" />
+		<ana lemma="ч`айник" pos="С" gram="но,|мр,им,ед," stress="1" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Максим
+		<ana lemma="Максим" pos="С" gram="од,|имя,мр,им,ед," stress="255" />
+		<ana_del lemma="м`аксима" pos="С" gram="но,|жр,рд,мн," stress="1" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,вн,ед," stress="4" />
+		<ana_del lemma="макс`им" pos="С" gram="но,|мр,им,ед," stress="4" />
+	</w>
+ 	<w> Максимыч
+		<ana lemma="максимыч?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> хотите
+		<ana lemma="хот`еть" pos="Г" gram="пе,нс,|дст,2л,нст,мн," stress="3" />
+		<ana lemma="хот`еть" pos="Г" gram="пе,нс,|дст,пвл,2л,мн," stress="3" />
+	</w>
+ 	<w> ли
+		<ana lemma="л`и" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="л`и" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> чаю
+		<ana lemma="ч`ай" pos="С" gram="но,|2,мр,пр,ед," stress="2" />
+		<ana lemma="ч`ай" pos="С" gram="но,|2,мр,рд,ед," stress="1" />
+		<ana lemma="ч`ай" pos="С" gram="но,|мр,дт,ед," stress="1" />
+		<ana_del lemma="ч`аять" pos="Г" gram="пе,нс,|дст,1л,нст,ед," stress="1" />
+	</w>
+ 	<pun> ? </pun>
+ 	<pun> - </pun>
+ 	<w> закричал
+		<ana lemma="закрич`ать" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="6" />
+	</w>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> ему
+		<ana lemma="он" pos="МС" gram="|3л,мр,дт,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,дт,ед," stress="2" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> окно
+		<ana lemma="окн`о" pos="С" gram="но,|ср,вн,ед," stress="3" />
+		<ana lemma="окн`о" pos="С" gram="но,|ср,им,ед," stress="3" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Благодарствуйте
+		<ana lemma="благод`арствовать" pos="Г" gram="нп,нс,|дст,пвл,2л,мн," stress="6" />
+	</w>
+ 	<pun> ; </pun>
+ 	<w> что-то
+		<ana lemma="чт`о-то" pos="Н" gram="|" stress="2" />
+		<ana lemma="что-то" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что-то" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> не
+		<ana lemma="н`е" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> хочется
+		<ana lemma="хот`еться" pos="Г" gram="нс,|безл,нст," stress="1" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Эй
+		<ana lemma="`эй" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> выпейте
+		<ana lemma="в`ыпить" pos="Г" gram="пе,св,|дст,пвл,2л,мн," stress="1" />
+	</w>
+ 	<pun> ! </pun>
+</s>
+<s>
+ 	<w> Смотрите
+		<ana lemma="смотр`еть" pos="Г" gram="пе,нс,|дст,2л,нст,мн," stress="2" />
+		<ana lemma="смотр`еть" pos="Г" gram="пе,нс,|дст,пвл,2л,мн," stress="5" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> ведь
+		<ana lemma="в`едь" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="ведь" pos="ЧАСТ" gram="|" stress="255" />
+	</w>
+ 	<w> уж
+		<ana lemma="`уж" pos="Н" gram="|" stress="0" />
+		<ana_del lemma="`уж" pos="С" gram="од,|мр,им,ед," stress="0" />
+		<ana_del lemma="`уж" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> поздно
+		<ana lemma="поздно" pos="ПРЕДК" gram="|нст," stress="255" />
+		<ana_del lemma="п`оздно" pos="Н" gram="|" stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> холодно
+		<ana lemma="х`олодно" pos="Н" gram="|" stress="1" />
+		<ana lemma="холодно" pos="ПРЕДК" gram="|нст," stress="255" />
+		<ana_del lemma="хол`одный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="3" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Ничего
+		<ana lemma="ничег`о" pos="Н" gram="|" stress="5" />
+		<ana lemma="ничт`о" pos="МС" gram="|ср,рд,ед," stress="5" />
+	</w>
+ 	<pun> ; </pun>
+ 	<w> благодарствуйте
+		<ana lemma="благод`арствовать" pos="Г" gram="нп,нс,|дст,пвл,2л,мн," stress="6" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Ну
+		<ana lemma="н`у" pos="МЕЖД" gram="|" stress="1" />
+		<ana lemma="ну" pos="ЧАСТ" gram="|" stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> как
+		<ana lemma="как" pos="Н" gram="|вопр," stress="255" />
+		<ana_del lemma="к`ак" pos="СОЮЗ" gram="|" stress="1" />
+		<ana_del lemma="к`ак" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<w> угодно
+		<ana lemma="угодно" pos="ПРЕДК" gram="|нст," stress="255" />
+		<ana_del lemma="уг`одно" pos="ЧАСТ" gram="|" stress="2" />
+		<ana_del lemma="уг`одный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="2" />
+	</w>
+ 	<pun> ! </pun>
+</s>
+<s>
+ 	<pun> - </pun>
+ 	<w> Я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> стал
+		<ana lemma="ст`ать" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="2" />
+	</w>
+ 	<w> пить
+		<ana lemma="п`ить" pos="ИНФИНИТИВ" gram="пе,нс,|дст," stress="1" />
+	</w>
+ 	<w> чай
+		<ana lemma="ч`ай" pos="С" gram="но,|мр,вн,ед," stress="1" />
+		<ana lemma="ч`ай" pos="С" gram="но,|мр,им,ед," stress="1" />
+		<ana_del lemma="ч`аять" pos="Г" gram="пе,нс,|дст,пвл,2л,ед," stress="1" />
+	</w>
+ 	<w> один
+		<ana lemma="од`ин" pos="МС-П" gram="|но,мр,вн,ед," stress="2" />
+		<ana lemma="од`ин" pos="МС-П" gram="|но,од,мр,им,ед," stress="2" />
+		<ana lemma="один" pos="ЧИСЛ" gram="|мр,вн," stress="255" />
+		<ana lemma="один" pos="ЧИСЛ" gram="|мр,им," stress="255" />
+	</w>
+ 	<pun> ; </pun>
+ 	<w> минут
+		<ana lemma="мин`ута" pos="С" gram="но,|жр,рд,мн," stress="3" />
+		<ana_del lemma="мин`уть" pos="Г" gram="пе,св,|дст,3л,буд,мн," stress="1" />
+	</w>
+ 	<w> через
+		<ana lemma="ч`ерез" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> десять
+		<ana lemma="д`есять" pos="ЧИСЛ" gram="|вн," stress="1" />
+		<ana lemma="д`есять" pos="ЧИСЛ" gram="|им," stress="1" />
+	</w>
+ 	<w> входит
+		<ana lemma="вход`ить" pos="Г" gram="нп,нс,|дст,3л,нст,ед," stress="2" />
+	</w>
+ 	<w> мой
+		<ana lemma="м`ой" pos="МС-П" gram="|но,од,мр,им,ед," stress="1" />
+		<ana_del lemma="м`ой" pos="МС-П" gram="|но,мр,вн,ед," stress="1" />
+		<ana_del lemma="м`ыть" pos="Г" gram="пе,нс,|дст,пвл,2л,ед," stress="1" />
+	</w>
+ 	<w> старик
+		<ana lemma="стар`ик" pos="С" gram="од,|мр,им,ед," stress="4" />
+	</w>
+ 	<pun> : </pun>
+ 	<pun> - </pun>
+ 	<w> А
+		<ana lemma="`а" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="МЕЖД" gram="|" stress="0" />
+		<ana_del lemma="`а" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> ведь
+		<ana lemma="в`едь" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="ведь" pos="ЧАСТ" gram="|" stress="255" />
+	</w>
+ 	<w> вы
+		<ana lemma="в`ы" pos="МС" gram="|2л,им,мн," stress="1" />
+	</w>
+ 	<w> правы
+		<ana lemma="пр`авый" pos="П" gram="кач,|но,од,кр,мн," stress="2" />
+	</w>
+ 	<pun> : </pun>
+ 	<w> все
+		<ana lemma="в`есь" pos="МС-П" gram="|но,вн,мн," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,им,мн," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,ср,вн,ед," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,ср,им,ед," stress="2" />
+		<ana lemma="все" pos="МС" gram="|вн,мн," stress="255" />
+		<ana lemma="все" pos="МС" gram="|им,мн," stress="255" />
+		<ana lemma="все" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="все" pos="МС" gram="|ср,им,ед," stress="255" />
+		<ana lemma="все" pos="Н" gram="|" stress="255" />
+	</w>
+ 	<w> лучше
+		<ana lemma="лучше" pos="ЧАСТ" gram="|" stress="255" />
+		<ana lemma="хор`оший" pos="П" gram="кач,|сравн,но,од," stress="1" />
+	</w>
+ 	<w> выпить
+		<ana lemma="в`ыпить" pos="ИНФИНИТИВ" gram="пе,св,|дст," stress="1" />
+	</w>
+ 	<w> чайку
+		<ana lemma="ч`айка" pos="С" gram="од,|жр,вн,ед," stress="1" />
+		<ana lemma="ча`ек" pos="С" gram="но,|2,мр,рд,ед," stress="4" />
+		<ana lemma="ча`ек" pos="С" gram="но,|мр,дт,ед," stress="4" />
+		<ana_del lemma="чайка" pos="С" gram="фам,од,|мр,вн,ед," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<pun> - </pun>
+ 	<w> да
+		<ana lemma="д`а" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="д`а" pos="ЧАСТ" gram="|" stress="1" />
+		<ana_del lemma="да" pos="ПРЕДК" gram="|0," stress="255" />
+	</w>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> все
+		<ana lemma="в`есь" pos="МС-П" gram="|но,вн,мн," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,им,мн," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,ср,вн,ед," stress="2" />
+		<ana lemma="в`есь" pos="МС-П" gram="|но,од,ср,им,ед," stress="2" />
+		<ana lemma="все" pos="МС" gram="|вн,мн," stress="255" />
+		<ana lemma="все" pos="МС" gram="|им,мн," stress="255" />
+		<ana lemma="все" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="все" pos="МС" gram="|ср,им,ед," stress="255" />
+		<ana lemma="все" pos="Н" gram="|" stress="255" />
+	</w>
+ 	<w> ждал
+		<ana lemma="жд`ать" pos="Г" gram="пе,нс,|дст,прш,мр,ед," stress="2" />
+	</w>
+ 	<pun> ... </pun>
+</s>
+<s>
+ 	<w> Уж
+		<ana lemma="`уж" pos="Н" gram="|" stress="0" />
+		<ana lemma="`уж" pos="С" gram="од,|мр,им,ед," stress="0" />
+		<ana lemma="`уж" pos="ЧАСТ" gram="|" stress="0" />
+	</w>
+ 	<w> человек
+		<ana lemma="челов`ек" pos="С" gram="од,|мр,им,ед," stress="5" />
+		<ana_del lemma="челов`ек" pos="С" gram="од,|мр,рд,мн," stress="5" />
+	</w>
+ 	<w> его
+		<ana lemma="его" pos="МС-П" gram="|0,но,од,ср,жр,мр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="2" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="2" />
+	</w>
+ 	<w> давно
+		<ana lemma="давн`о" pos="Н" gram="|" stress="4" />
+	</w>
+ 	<w> к
+		<ana lemma="к" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> нему
+		<ana lemma="он" pos="МС" gram="|3л,мр,дт,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,дт,ед," stress="3" />
+	</w>
+ 	<w> пошел
+		<ana lemma="пойт`и" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="3" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> да
+		<ana lemma="д`а" pos="СОЮЗ" gram="|" stress="1" />
+		<ana lemma="д`а" pos="ЧАСТ" gram="|" stress="1" />
+		<ana lemma="да" pos="ПРЕДК" gram="|0," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> видно
+		<ana lemma="в`идно" pos="ВВОДН" gram="|" stress="1" />
+		<ana lemma="видно" pos="ПРЕДК" gram="|нст," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что-нибудь
+		<ana lemma="чт`о-нибудь" pos="МС" gram="|ср,им,ед," stress="2" />
+		<ana_del lemma="чт`о-нибудь" pos="МС" gram="|ср,вн,ед," stress="2" />
+	</w>
+ 	<w> задержало
+		<ana lemma="задерж`ать" pos="Г" gram="пе,св,|дст,прш,ср,ед," stress="6" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+ 	<w> Он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> наскоро
+		<ana lemma="н`аскоро" pos="Н" gram="|" stress="1" />
+	</w>
+ 	<w> выхлебнул
+		<ana lemma="в`ыхлебнуть" pos="Г" gram="пе,св,|дст,прш,мр,ед," stress="1" />
+	</w>
+ 	<w> чашку
+		<ana lemma="ч`ашка" pos="С" gram="но,|жр,вн,ед," stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> отказался
+		<ana lemma="отказ`аться" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="5" />
+	</w>
+ 	<w> от
+		<ana lemma="`от" pos="ПРЕДЛ" gram="|" stress="0" />
+	</w>
+ 	<w> второй
+		<ana lemma="втор`ой" pos="ЧИСЛ-П" gram="|но,од,мр,им,ед," stress="4" />
+		<ana_del lemma="вт`ора" pos="С" gram="но,|жр,тв,ед," stress="2" />
+		<ana_del lemma="втор`ой" pos="ЧИСЛ-П" gram="|но,мр,вн,ед," stress="4" />
+		<ana_del lemma="втор`ой" pos="ЧИСЛ-П" gram="|но,од,жр,дт,ед," stress="4" />
+		<ana_del lemma="втор`ой" pos="ЧИСЛ-П" gram="|но,од,жр,пр,ед," stress="4" />
+		<ana_del lemma="втор`ой" pos="ЧИСЛ-П" gram="|но,од,жр,рд,ед," stress="4" />
+		<ana_del lemma="втор`ой" pos="ЧИСЛ-П" gram="|но,од,жр,тв,ед," stress="4" />
+	</w>
+ 	<w> у
+		<ana lemma="`у" pos="ПРЕДЛ" gram="|" stress="0" />
+		<ana_del lemma="у" pos="МЕЖД" gram="|" stress="255" />
+	</w>
+ 	<w> ушел
+		<ana lemma="уйт`и" pos="Г" gram="нп,св,|дст,прш,мр,ед," stress="2" />
+	</w>
+ 	<w> опять
+		<ana lemma="оп`ять" pos="Н" gram="|" stress="2" />
+	</w>
+ 	<w> за
+		<ana lemma="з`а" pos="ПРЕДЛ" gram="|" stress="1" />
+	</w>
+ 	<w> ворота
+		<ana lemma="вор`ота" pos="С" gram="но,|вн,мн," stress="3" />
+		<ana_del lemma="в`орот" pos="С" gram="но,|мр,рд,ед," stress="1" />
+		<ana_del lemma="вор`ота" pos="С" gram="но,|им,мн," stress="3" />
+	</w>
+ 	<w> в
+		<ana lemma="в" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> каком-то
+		<ana lemma="как`ой-то" pos="МС-П" gram="|но,од,ср,пр,ед," stress="3" />
+		<ana_del lemma="как`ой-то" pos="МС-П" gram="|но,од,мр,пр,ед," stress="3" />
+	</w>
+ 	<w> беспокойстве
+		<ana lemma="беспок`ойство" pos="С" gram="но,|ср,пр,ед," stress="6" />
+	</w>
+ 	<pun> : </pun>
+ 	<w> явно
+		<ana lemma="`явный" pos="П" gram="кач,|но,од,кр,ср,ед," stress="0" />
+		<ana_del lemma="`явно" pos="Н" gram="|" stress="0" />
+	</w>
+ 	<w> было
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,ср,ед," stress="1" />
+		<ana_del lemma="б`ыло" pos="ЧАСТ" gram="|" stress="1" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana_del lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana_del lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> старика
+		<ana lemma="стар`ик" pos="С" gram="од,|мр,вн,ед," stress="6" />
+		<ana lemma="стар`ик" pos="С" gram="од,|мр,рд,ед," stress="6" />
+	</w>
+ 	<w> огорчало
+		<ana lemma="огорч`ать" pos="Г" gram="пе,нс,|дст,прш,ср,ед," stress="5" />
+	</w>
+ 	<w> небрежение
+		<ana lemma="небреж`ение" pos="С" gram="но,|ср,вн,ед," stress="6" />
+		<ana lemma="небреж`ение" pos="С" gram="но,|ср,им,ед," stress="6" />
+	</w>
+ 	<w> я
+		<ana lemma="я" pos="МС" gram="|1л,им,ед," stress="255" />
+	</w>
+ 	<w> Печорина
+		<ana lemma="печорина?" pos="С" gram="|ср,жр,мр,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+		<ana_del lemma="печорин?" pos="С" gram="|жр,им,ед," stress="255" />
+		<ana_del lemma="печорин?" pos="С" gram="|мр,вн,ед," stress="255" />
+		<ana_del lemma="печорин?" pos="С" gram="|мр,рд,ед," stress="255" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<ob> тем более
+		<ana lemma="тем_более" pos="ЧАСТ" gram="" stress="255"/>
+		<singles>
+		 	<w> тем
+				<ana_del lemma="т`ем" pos="СОЮЗ" gram="|" stress="1" />
+				<ana_del lemma="т`ема" pos="С" gram="но,|жр,рд,мн," stress="1" />
+				<ana_del lemma="т`от" pos="МС-П" gram="|но,од,дт,мн," stress="1" />
+				<ana_del lemma="т`от" pos="МС-П" gram="|но,од,мр,тв,ед," stress="1" />
+				<ana_del lemma="т`от" pos="МС-П" gram="|но,од,ср,тв,ед," stress="1" />
+				<ana_del lemma="тьм`а" pos="С" gram="но,|жр,рд,мн," stress="1" />
+			</w>
+		 	<w> более
+				<ana_del lemma="более" pos="Н" gram="|" stress="255" />
+				<ana_del lemma="мн`ого" pos="ЧИСЛ" gram="|сравн," stress="1" />
+			</w>
+		</singles>
+	</ob>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> мне
+		<ana lemma="я" pos="МС" gram="|1л,дт,ед," stress="255" />
+		<ana lemma="я" pos="МС" gram="|1л,пр,ед," stress="255" />
+	</w>
+ 	<w> недавно
+		<ana lemma="нед`авно" pos="Н" gram="|" stress="3" />
+	</w>
+ 	<w> говорил
+		<ana lemma="говор`ить" pos="Г" gram="пе,нс,|дст,прш,мр,ед," stress="5" />
+	</w>
+ 	<w> о
+		<ana lemma="о" pos="ПРЕДЛ" gram="|" stress="255" />
+		<ana_del lemma="о" pos="МЕЖД" gram="|" stress="255" />
+	</w>
+ 	<w> своей
+		<ana lemma="св`ой" pos="МС-П" gram="|но,од,жр,дт,ед," stress="3" />
+		<ana lemma="св`ой" pos="МС-П" gram="|но,од,жр,пр,ед," stress="3" />
+		<ana lemma="св`ой" pos="МС-П" gram="|но,од,жр,рд,ед," stress="3" />
+		<ana lemma="св`ой" pos="МС-П" gram="|но,од,жр,тв,ед," stress="3" />
+	</w>
+ 	<w> с
+		<ana lemma="с" pos="ПРЕДЛ" gram="|" stress="255" />
+	</w>
+ 	<w> ним
+		<ana lemma="он" pos="МС" gram="|3л,мр,тв,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,тв,ед," stress="1" />
+		<ana_del lemma="он`и" pos="МС" gram="|3л,дт,мн," stress="1" />
+	</w>
+ 	<w> дружбе
+		<ana lemma="др`ужба" pos="С" gram="но,|жр,дт,ед," stress="2" />
+		<ana lemma="др`ужба" pos="С" gram="но,|жр,пр,ед," stress="2" />
+	</w>
+ 	<w> и
+		<ana lemma="`и" pos="СОЮЗ" gram="|" stress="0" />
+		<ana_del lemma="`и" pos="МЕЖД" gram="|" stress="0" />
+	</w>
+ 	<w> еще
+		<ana lemma="ещ`е" pos="Н" gram="|" stress="2" />
+		<ana lemma="ещ`е" pos="ЧАСТ" gram="|" stress="2" />
+	</w>
+ 	<w> час
+		<ana lemma="ч`ас" pos="С" gram="но,|мр,им,ед," stress="1" />
+		<ana_del lemma="ч`ас" pos="С" gram="но,|мр,вн,ед," stress="1" />
+	</w>
+ 	<w> тому
+		<ana lemma="т`ом" pos="С" gram="но,|мр,дт,ед," stress="1" />
+		<ana lemma="т`от" pos="МС-П" gram="|но,од,мр,дт,ед," stress="3" />
+		<ana lemma="т`от" pos="МС-П" gram="|но,од,ср,дт,ед," stress="3" />
+		<ana_del lemma="Том" pos="С" gram="од,|имя,мр,дт,ед," stress="255" />
+		<ana_del lemma="Тома" pos="С" gram="од,|имя,жр,вн,ед," stress="255" />
+	</w>
+ 	<w> назад
+		<ana lemma="наз`ад" pos="Н" gram="|" stress="3" />
+	</w>
+ 	<w> был
+		<ana lemma="б`ыть" pos="Г" gram="нп,нс,|дст,прш,мр,ед," stress="1" />
+	</w>
+ 	<w> уверен
+		<ana lemma="ув`еренный" pos="П" gram="кач,|но,од,кр,мр,ед," stress="2" />
+		<ana lemma="ув`ерить" pos="ПРИЧАСТИЕ" gram="пе,св,|стр,но,од,прш,кр,мр,ед," stress="2" />
+	</w>
+ 	<pun> , </pun>
+ 	<w> что
+		<ana lemma="чт`о" pos="СОЮЗ" gram="|" stress="2" />
+		<ana lemma="что" pos="МС" gram="|ср,вн,ед," stress="255" />
+		<ana lemma="что" pos="МС" gram="|ср,им,ед," stress="255" />
+	</w>
+ 	<w> он
+		<ana lemma="он" pos="МС" gram="|3л,мр,им,ед," stress="255" />
+	</w>
+ 	<w> прибежит
+		<ana lemma="прибеж`ать" pos="Г" gram="нп,св,|дст,3л,буд,ед," stress="6" />
+	</w>
+ 	<pun> , </pun>
+ 	<ob> как только
+		<ana lemma="как_только" pos="ПОДЧ_СОЮЗ" gram="" stress="255"/>
+		<singles>
+		 	<w> как
+				<ana_del lemma="к`ак" pos="СОЮЗ" gram="|" stress="1" />
+				<ana_del lemma="к`ак" pos="ЧАСТ" gram="|" stress="1" />
+				<ana_del lemma="как" pos="Н" gram="|вопр," stress="255" />
+			</w>
+		 	<w> только
+				<ana_del lemma="т`олько" pos="СОЮЗ" gram="|" stress="1" />
+				<ana_del lemma="т`олько" pos="ЧАСТ" gram="|" stress="1" />
+			</w>
+		</singles>
+	</ob>
+ 	<w> услышит
+		<ana lemma="усл`ышать" pos="Г" gram="пе,св,|дст,3л,буд,ед," stress="3" />
+	</w>
+ 	<w> его
+		<ana lemma="он" pos="МС" gram="|3л,мр,вн,ед," stress="255" />
+		<ana lemma="он" pos="МС" gram="|3л,мр,рд,ед," stress="255" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,вн,ед," stress="2" />
+		<ana lemma="он`о" pos="МС" gram="|3л,ср,рд,ед," stress="2" />
+		<ana_del lemma="его" pos="МС-П" gram="|0,но,од,ср,жр,мр,зв,пр,тв,вн,дт,рд,им,ед,мн," stress="255" />
+	</w>
+ 	<w> имя
+		<ana lemma="`имя" pos="С" gram="но,|ср,им,ед," stress="0" />
+		<ana_del lemma="`имя" pos="С" gram="но,|ср,вн,ед," stress="0" />
+	</w>
+ 	<pun> . </pun>
+</s>
+<s>
+</text>
+
